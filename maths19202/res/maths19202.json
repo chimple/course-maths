@@ -1,0 +1,37 @@
+{
+  "rows": [
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "2",
+      "7",
+      "12",
+      "?",
+      "NA",
+      "17"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "4",
+      "9",
+      "?",
+      "19",
+      "NA",
+      "14"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "3",
+      "?",
+      "13",
+      "18",
+      "NA",
+      "8"
+    ]
+  ]
+}

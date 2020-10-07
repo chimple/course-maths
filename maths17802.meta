@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "3dec27b0-46bf-4067-b91f-8e48488cb44f",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

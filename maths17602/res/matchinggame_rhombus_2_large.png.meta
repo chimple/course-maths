@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3c3dd735-ce64-4cd6-9181-59b1ef1e72cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 190,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "matchinggame_rhombus_2_large": {
+      "ver": "1.0.4",
+      "uuid": "16acb33f-474f-4cc9-91e0-11957c5125e9",
+      "rawTextureUuid": "3c3dd735-ce64-4cd6-9181-59b1ef1e72cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 42,
+      "trimY": 22,
+      "width": 106,
+      "height": 106,
+      "rawWidth": 190,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "rows": [
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "4",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "3",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "1",
+      "4"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "3",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "1",
+      "2"
+    ]
+  ]
+}

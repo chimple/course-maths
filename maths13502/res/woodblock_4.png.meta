@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "58c56b73-a6a1-48b4-8375-4e88f33dde88",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 378,
+  "height": 390,
+  "platformSettings": {},
+  "subMetas": {
+    "woodblock_4": {
+      "ver": "1.0.4",
+      "uuid": "ab2d92aa-4267-43c0-951a-7af1cbbf9caa",
+      "rawTextureUuid": "58c56b73-a6a1-48b4-8375-4e88f33dde88",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 99,
+      "trimY": 112,
+      "width": 181,
+      "height": 167,
+      "rawWidth": 378,
+      "rawHeight": 390,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
