@@ -1,164 +1,85 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
+      "",
+      "4",
       "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
       "4"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
+      "",
+      "4",
+      "2",
       "8"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "7"
+      "",
+      "4",
+      "3",
+      "12"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "9"
+      "",
+      "4",
+      "4",
+      "16"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "6"
+      "",
+      "4",
+      "5",
+      "20"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "8"
+      "",
+      "4",
+      "6",
+      "24"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "3"
+      "",
+      "4",
+      "7",
+      "28"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "2"
+      "",
+      "4",
+      "8",
+      "32"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
+      "",
+      "4",
+      "9",
+      "36"
     ]
   ]
 }

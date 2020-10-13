@@ -1,212 +1,84 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "-",
-      "4",
-      "2"
+      "ADD2",
+      "6+8",
+      "14"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "3",
-      "1"
+      "ADD2",
+      "7+4",
+      "11"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "1",
-      "4"
+      "ADD2",
+      "9+5",
+      "14"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "3",
-      "2"
+      "ADD2",
+      "8+7",
+      "15"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "1",
-      "2"
+      "ADD2",
+      "5+7",
+      "12"
     ],
     [
-      "foodjar",
+      "tenbox",
       "1",
       "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
+      "ADD2",
+      "6+8",
+      "14"
     ],
     [
-      "foodjar",
+      "tenbox",
       "1",
       "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
+      "ADD2",
+      "7+4",
+      "11"
     ],
     [
-      "foodjar",
+      "tenbox",
       "1",
       "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
+      "ADD2",
+      "1+19",
+      "20"
     ],
     [
-      "foodjar",
+      "tenbox",
       "1",
       "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
+      "ADD2",
+      "2+18",
+      "20"
     ],
     [
-      "foodjar",
+      "tenbox",
       "1",
       "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "+",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "A",
-      "-",
-      "1",
-      "10",
-      "0",
-      "2",
-      "5"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~20-1~20=?"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~20+1~20=?"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~20+1~20=?"
+      "ADD2",
+      "3+17",
+      "20"
     ]
   ]
 }

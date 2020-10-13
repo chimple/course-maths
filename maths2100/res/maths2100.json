@@ -1,88 +1,70 @@
 {
   "rows": [
     [
-      "writeset",
+      "fillanswer",
       "1",
       "Description",
-      "51"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "52"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "53"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "54"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "55"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "56"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "57"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "58"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "59"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "60"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "recognize_number",
+      "14 + 56 = [ 70 ]",
       "",
-      "31~60"
+      "60",
+      "80",
+      "40",
+      "0"
     ],
     [
-      "quizmath",
+      "fillanswer",
       "1",
       "Description",
-      "recognize_number",
+      "43 + 37 = [ 80 ]",
       "",
-      "31~60"
+      "70",
+      "90",
+      "100",
+      "0"
     ],
     [
-      "quizmath",
+      "fillanswer",
       "1",
       "Description",
-      "recognize_number",
+      "58 + 32 = [ 90 ]",
       "",
-      "31~60"
+      "100",
+      "110",
+      "80",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "36 + 34 = [ 70 ]",
+      "",
+      "90",
+      "80",
+      "60",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "29 + 31 = [ 60 ]",
+      "",
+      "40",
+      "50",
+      "70",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "25 + 47 = [ 72 ]",
+      "",
+      "67",
+      "82",
+      "90",
+      "0"
     ]
   ]
 }

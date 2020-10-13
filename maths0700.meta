@@ -1,20 +1,12 @@
 {
   "ver": "1.1.2",
-  "uuid": "70437fed-7026-4d30-ad3f-e4f4b1016d45",
-  "isBundle": true,
+  "uuid": "27ce39ea-43ba-47a4-8ed2-e4b436379438",
+  "isBundle": false,
   "bundleName": "",
   "priority": 1,
-  "compressionType": {
-    "android": "merge_all_json"
-  },
-  "optimizeHotUpdate": {
-    "android": false
-  },
-  "inlineSpriteFrames": {
-    "android": false
-  },
-  "isRemoteBundle": {
-    "android": true
-  },
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
   "subMetas": {}
 }

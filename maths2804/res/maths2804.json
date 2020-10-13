@@ -1,188 +1,85 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
+      "",
+      "6",
       "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
       "6"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "6"
+      "",
+      "6",
+      "2",
+      "12"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "1"
+      "",
+      "6",
+      "3",
+      "18"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "4"
+      "",
+      "6",
+      "4",
+      "24"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "2"
+      "",
+      "6",
+      "5",
+      "30"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "5"
+      "",
+      "6",
+      "6",
+      "36"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "3"
+      "",
+      "6",
+      "7",
+      "42"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "8"
+      "",
+      "6",
+      "8",
+      "48"
     ],
     [
-      "sumtogether",
+      "multiplybeads",
       "1",
       "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
+      "",
+      "6",
+      "9",
+      "54"
     ]
   ]
 }

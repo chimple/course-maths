@@ -1,149 +1,64 @@
 {
   "rows": [
     [
-      "balancing",
+      "calculator",
       "1",
       "Description",
-      "image",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
       "10",
       "",
-      "",
-      "image",
-      "5"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "balancing",
+      "calculator",
       "1",
       "Description",
-      "image",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
       "10",
       "",
-      "",
-      "image",
-      "6"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "balancing",
+      "calculator",
       "1",
       "Description",
-      "image",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
       "10",
       "",
-      "",
-      "image",
-      "7"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "balancing",
+      "calculator",
       "1",
       "Description",
-      "image",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
       "10",
       "",
-      "",
-      "image",
-      "8"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "balancing",
+      "calculator",
       "1",
       "Description",
-      "image",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
       "10",
       "",
-      "",
-      "image",
-      "9"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "6",
-      "",
-      "",
-      "image",
-      "10"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "7",
-      "",
-      "",
-      "image",
-      "10"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "8",
-      "",
-      "",
-      "image",
-      "10"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "9",
-      "",
-      "",
-      "image",
-      "10"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "10",
-      "",
-      "",
-      "image",
-      "10"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "bigger_and_smaller",
-      "",
-      "1~10",
-      "bigger",
-      "which_group_is_bigger.m4a",
-      "Which group is bigger?",
-      "image"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "bigger_and_smaller",
-      "",
-      "1~10",
-      "smaller",
-      "which_is_smaller.m4a",
-      "Which is smaller?",
-      "number"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "bigger_and_smaller",
-      "",
-      "1~10",
-      "smaller",
-      "which_is_smaller.m4a",
-      "Which is smaller?"
+      "0,1,2,3,4,5,6,7,8,9"
     ]
   ]
 }

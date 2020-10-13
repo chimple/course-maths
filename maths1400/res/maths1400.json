@@ -1,87 +1,60 @@
 {
   "rows": [
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "31"
+      "-",
+      "4",
+      "2"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "32"
+      "-",
+      "3",
+      "1"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "33"
+      "-",
+      "5",
+      "2"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "34"
+      "-",
+      "3",
+      "2"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "35"
+      "-",
+      "5",
+      "4"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "36"
+      "-",
+      "4",
+      "2"
     ],
     [
-      "writeset",
+      "sumtogether",
       "1",
       "Description",
-      "37"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "38"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "39"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "40"
-    ],
-    [
-      "numberboard",
-      "1",
-      "Description",
-      "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-      "Alpha",
-      "0",
-      "0"
-    ],
-    [
-      "numberboard",
-      "1",
-      "Description",
-      "11,12,13,14,15,16,17,18,19,20",
-      "DropAlphaDragStick",
-      "0",
-      "0",
-      "20",
-      "-100",
-      "110",
-      "90",
-      "n"
+      "-",
+      "3",
+      "1"
     ]
   ]
 }

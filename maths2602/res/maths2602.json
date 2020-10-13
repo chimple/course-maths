@@ -1,204 +1,48 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "fillanswer",
       "1",
       "Description",
-      "-",
-      "10",
-      "9"
+      "86 - 64 = [ 22 ]",
+      "",
+      "20",
+      "32",
+      "16",
+      "0"
     ],
     [
-      "sumtogether",
+      "fillanswer",
       "1",
       "Description",
-      "-",
-      "10",
-      "1"
+      "79 - 52 = [ 27 ]",
+      "",
+      "34",
+      "20",
+      "30",
+      "0"
     ],
     [
-      "sumtogether",
+      "fillanswer",
       "1",
       "Description",
-      "-",
-      "10",
-      "5"
+      "98 - 67 = [ 31 ]",
+      "",
+      "21",
+      "18",
+      "40",
+      "0"
     ],
     [
-      "sumtogether",
+      "fillanswer",
       "1",
       "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
+      "97 - 15 = [ 82 ]",
+      "",
+      "67",
+      "72",
+      "80",
+      "0"
     ]
   ]
 }

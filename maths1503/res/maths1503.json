@@ -1,48 +1,84 @@
 {
   "rows": [
     [
-      "balancing",
+      "sumtogether",
       "1",
       "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "2"
+      "+",
+      "3",
+      "1"
     ],
     [
-      "balancing",
+      "sumtogether",
       "1",
       "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "3"
-    ],
-    [
-      "balancing",
+      "+",
       "1",
-      "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
       "4"
     ],
     [
-      "balancing",
+      "sumtogether",
       "1",
       "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "5"
+      "+",
+      "3",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "1",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "4",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "3",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "1",
+      "4"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "3",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "1",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "4",
+      "2"
     ]
   ]
 }

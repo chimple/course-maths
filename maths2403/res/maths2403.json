@@ -1,69 +1,13 @@
 {
   "rows": [
     [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "2",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "5",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "3",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "2",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "4",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "4",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "6",
-      "5"
-    ],
-    [
       "foodjar",
       "1",
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -74,8 +18,8 @@
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -86,8 +30,8 @@
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -98,8 +42,8 @@
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -110,8 +54,8 @@
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -122,8 +66,8 @@
       "Description",
       "B",
       "-",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"

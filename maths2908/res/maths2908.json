@@ -1,0 +1,40 @@
+{
+  "rows": [
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "",
+      "4",
+      "2",
+      "8"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "",
+      "2",
+      "4",
+      "8"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "",
+      "8",
+      "3",
+      "24"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "",
+      "3",
+      "8",
+      "24"
+    ]
+  ]
+}

@@ -1,69 +1,49 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
+      "B",
       "-",
-      "2",
-      "1"
+      "10",
+      "20",
+      "0",
+      "0",
+      "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
+      "B",
       "-",
-      "5",
-      "1"
+      "10",
+      "20",
+      "0",
+      "0",
+      "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "+",
-      "3",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "2",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
+      "B",
       "-",
-      "4",
-      "1"
+      "10",
+      "20",
+      "0",
+      "0",
+      "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "+",
-      "4",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
+      "B",
       "-",
-      "6",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "B",
-      "+",
-      "1",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -73,9 +53,9 @@
       "1",
       "Description",
       "B",
-      "+",
-      "1",
+      "-",
       "10",
+      "20",
       "0",
       "0",
       "5"
@@ -85,64 +65,12 @@
       "1",
       "Description",
       "B",
-      "+",
-      "1",
+      "-",
       "10",
+      "20",
       "0",
       "0",
       "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "B",
-      "+",
-      "1",
-      "10",
-      "0",
-      "0",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "B",
-      "+",
-      "1",
-      "10",
-      "0",
-      "0",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "B",
-      "+",
-      "1",
-      "10",
-      "0",
-      "0",
-      "5"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "10~19+1~9=?"
-    ],
-    [
-      "quizmath",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~9+10~19=?"
     ]
   ]
 }
