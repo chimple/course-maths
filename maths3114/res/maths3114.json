@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "2",
       "en_uk_b1_07.m4a",
       "Lucy has 8 pencils. She loses 7 of them. How many pencils does Lucy have left?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "2",
       "en_uk_b1_10.m4a",
       "There are 9 kites flying in the sky. A wind blows 3 kites down on the ground. How many kites are still flying in the sky?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "2",
       "en_uk_b1_02.m4a",
       "Ana has 7 cookies. She eats 2 of them. How many cookies does she have left?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "2",
       "en_uk_b1_09.m4a",
       "There are 12 cats on a fence. 1 cat jumps down off of the fence. How many cats are left on the fence?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "2",
       "en_uk_b1_06.m4a",
       "A farmer gathered 16 eggs. She used 4 eggs to make breakfast. How many eggs does she have left?",
@@ -114,6 +109,39 @@
       "4",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "1",
+      "",
+      "",
+      "en_uk_b1_07.m4a",
+      "Lucy has 8 pencils. She loses 7 of them. How many pencils does Lucy have left?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "6",
+      "",
+      "",
+      "en_uk_b1_10.m4a",
+      "There are 9 kites flying in the sky. A wind blows 3 kites down on the ground. How many kites are still flying in the sky?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "5",
+      "",
+      "",
+      "en_uk_b1_02.m4a",
+      "Ana has 7 cookies. She eats 2 of them. How many cookies does she have left?"
     ]
   ]
 }

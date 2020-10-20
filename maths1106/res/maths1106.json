@@ -1,114 +1,74 @@
 {
   "rows": [
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "7",
-      "6",
-      "5",
-      "?",
-      "NA",
-      "4"
+      "379",
+      "143"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "8",
-      "7",
-      "?",
-      "5",
-      "NA",
-      "6"
+      "588",
+      "126"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "10",
-      "9",
-      "?",
-      "7",
-      "NA",
-      "8"
+      "678",
+      "253"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "9",
-      "?",
-      "7",
-      "6",
-      "NA",
-      "8"
+      "598",
+      "284"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "8",
-      "?",
-      "6",
-      "5",
-      "NA",
-      "7"
+      "885",
+      "362"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "2",
-      "4",
-      "6",
-      "?",
-      "NA",
-      "8"
+      "490",
+      "157"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "2",
-      "4",
-      "?",
-      "8",
-      "NA",
-      "6"
+      "343",
+      "206"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "4",
-      "6",
-      "?",
-      "10",
-      "NA",
-      "8"
+      "618",
+      "335"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "2",
-      "?",
-      "6",
-      "8",
-      "NA",
-      "4"
+      "707",
+      "462"
     ],
     [
-      "sequencebox",
+      "blender",
       "1",
       "Description",
-      "4",
-      "?",
-      "8",
-      "10",
-      "NA",
-      "6"
+      "822",
+      "574"
     ]
   ]
 }

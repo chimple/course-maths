@@ -584,6 +584,57 @@
       "",
       "#F1C82A",
       "sphere.mp3"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "shapes",
+      "circle",
+      "square",
+      "triangle",
+      "rectangle",
+      "circle",
+      "square",
+      "triangle",
+      "rectangle",
+      "what",
+      "What_is_this_shape",
+      "What is this shape?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "shapes",
+      "pentagon",
+      "hexagon",
+      "parallelogram",
+      "trapezoid",
+      "pentagon",
+      "hexagon",
+      "parallelogram",
+      "trapezoid",
+      "what",
+      "What_is_this_shape",
+      "What is this shape?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "shapes",
+      "circle",
+      "square",
+      "triangle",
+      "rectangle",
+      "circle",
+      "square",
+      "triangle",
+      "rectangle",
+      "what",
+      "What_is_this_shape",
+      "What is this shape?"
     ]
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "bb6b0c6f-2d37-4cc2-a71d-f82faef66985",
+  "uuid": "ad29e1d4-9fd3-42b8-8368-43b7a1494dc2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "matchinggame_parallelogram_1_large": {
       "ver": "1.0.4",
-      "uuid": "259269eb-c83e-4b8b-a6ae-38f58a23a0e9",
-      "rawTextureUuid": "bb6b0c6f-2d37-4cc2-a71d-f82faef66985",
+      "uuid": "97f6106d-69c8-4b04-91f4-747f401a0e39",
+      "rawTextureUuid": "ad29e1d4-9fd3-42b8-8368-43b7a1494dc2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -5,7 +5,7 @@
       "1",
       "Description",
       "SUB",
-      "10-1",
+      "11-2",
       "9"
     ],
     [
@@ -13,7 +13,15 @@
       "1",
       "Description",
       "SUB",
-      "10-2",
+      "13-4",
+      "9"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "11-3",
       "8"
     ],
     [
@@ -21,7 +29,55 @@
       "1",
       "Description",
       "SUB",
-      "10-3",
+      "15-6",
+      "9"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "14-5",
+      "9"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "13-4",
+      "9"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "12-4",
+      "8"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "12-3",
+      "9"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "15-7",
+      "8"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "SUB",
+      "11-4",
       "7"
     ],
     [
@@ -29,56 +85,44 @@
       "1",
       "Description",
       "SUB",
-      "10-4",
-      "6"
+      "16-9",
+      "7"
     ],
     [
-      "tenbox",
+      "quizmaths",
       "1",
       "Description",
-      "SUB",
-      "10-5",
-      "5"
+      "operations_with_objects",
+      "1~8",
+      "1~9-1~9=?",
+      "horizontal"
     ],
     [
-      "tenbox",
+      "quizmaths",
       "1",
       "Description",
-      "SUB",
-      "10-6",
-      "4"
+      "operations_with_objects",
+      "1~9",
+      "10-1~9=?",
+      "horizontal"
     ],
     [
-      "tenbox",
+      "quizmaths",
       "1",
       "Description",
-      "SUB",
-      "10-7",
-      "3"
+      "operations_with_objects",
+      "10~18",
+      "11~19-1~9=?",
+      "horizontal"
     ],
     [
-      "tenbox",
+      "quizmaths",
       "1",
       "Description",
-      "SUB",
-      "10-8",
-      "2"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "10-9",
-      "1"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "10-1",
-      "9"
+      "operations_with_objects",
+      "1~10",
+      "11~20-10=?",
+      "horizontal"
     ]
   ]
 }

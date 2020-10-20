@@ -284,6 +284,42 @@
       "7",
       "8",
       "9"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10",
+      "9~1+1~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~9",
+      "10~1-1~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10",
+      "9~1+1~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~9",
+      "10~1-1~9=?",
+      "horizontal"
     ]
   ]
 }

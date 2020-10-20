@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c079e7eb-09b9-4505-8f26-6febc7861f8f",
+  "uuid": "52143338-24db-4c88-8f68-90b662cf74ad",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "dice5": {
       "ver": "1.0.4",
-      "uuid": "a06c981d-070d-48e2-8aeb-9d23c9acc595",
-      "rawTextureUuid": "c079e7eb-09b9-4505-8f26-6febc7861f8f",
+      "uuid": "c364a773-aba6-4bae-9302-4ad245f64de7",
+      "rawTextureUuid": "52143338-24db-4c88-8f68-90b662cf74ad",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

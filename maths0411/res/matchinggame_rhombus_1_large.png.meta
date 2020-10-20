@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "95ebb86b-ef8e-45c0-b4b0-b844ec167962",
+  "uuid": "6655b085-2ab4-4b6d-ad28-ff2677686cf6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "matchinggame_rhombus_1_large": {
       "ver": "1.0.4",
-      "uuid": "5f77b2f4-ef61-4c09-96bc-a20fc46d1a23",
-      "rawTextureUuid": "95ebb86b-ef8e-45c0-b4b0-b844ec167962",
+      "uuid": "760d6f2a-c0fe-4807-bb62-56331f2373a1",
+      "rawTextureUuid": "6655b085-2ab4-4b6d-ad28-ff2677686cf6",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -54,6 +54,30 @@
       "92",
       "100",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10~30",
+      "10~20+1~10=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "20~50",
+      "10~30+10~20=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "60~80",
+      "50~60+10~20=?"
     ]
   ]
 }

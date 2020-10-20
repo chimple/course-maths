@@ -43,6 +43,30 @@
       "50",
       "70",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "70~90",
+      "40~50+30~40=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "20~50",
+      "10~30+10~20=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "60~80",
+      "50~60+10~20=?"
     ]
   ]
 }

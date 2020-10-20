@@ -4,14 +4,15 @@
       "taprise",
       "1",
       "Description",
-      "",
-      "1"
+      "2",
+      "1",
+      "1",
+      "18"
     ],
     [
       "total",
       "1",
       "Description",
-      "",
       "18",
       "0",
       "0,1,2,3,4,5,6,7,8,9"
@@ -20,7 +21,6 @@
       "rowblocks",
       "1",
       "Description",
-      "",
       "1,2,3,4,5,6,7,8,9,10",
       "18",
       "Y",
@@ -30,20 +30,75 @@
       "writenumber",
       "1",
       "Description",
-      "",
       "18"
     ],
     [
       "writeset",
       "1",
       "Description",
-      "",
       "18"
     ],
     [
-      "matchbox",
+      "quizmaths",
       "1",
-      "Description"
+      "Description",
+      "single_digit_numbers",
+      "",
+      "1~18",
+      "",
+      "howmany.m4a"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "",
+      "1~18"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "",
+      "11~18"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "recognize_number",
+      "",
+      "1~18"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "2digit_numbers",
+      "",
+      "18",
+      "",
+      "howmany.m4a"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "recognize_number",
+      "",
+      "11~18"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "2digit_numbers",
+      "",
+      "11~18",
+      "",
+      "howmany.m4a"
     ]
   ]
 }

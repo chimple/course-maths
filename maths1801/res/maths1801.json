@@ -59,6 +59,33 @@
       "10",
       "",
       "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "8~10",
+      "6~7+2~3=?",
+      "vertical"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "10~10",
+      "8~3+2~7=?",
+      "vertical"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "1~10",
+      "0~9+1~9=?",
+      "vertical"
     ]
   ]
 }

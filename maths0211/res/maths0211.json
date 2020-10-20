@@ -4,7 +4,6 @@
       "numberboard",
       "1",
       "Description",
-      "",
       "11,12,13,14,15,16,17,18,19,20",
       "DropAlphaDragStick",
       "0",
@@ -575,6 +574,30 @@
       "#F25949",
       "rectangle",
       "#F1C82A"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "",
+      "5~10"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "",
+      "11~19"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "",
+      "1~9"
     ]
   ]
 }

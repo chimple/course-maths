@@ -4,45 +4,111 @@
       "sequencebox",
       "1",
       "Description",
-      "50",
+      "45",
+      "48",
+      "51",
       "?",
-      "70",
-      "80",
-      "NA",
-      "60"
+      "",
+      "54"
     ],
     [
       "sequencebox",
       "1",
       "Description",
-      "60",
-      "70",
-      "80",
+      "33",
       "?",
-      "NA",
-      "90"
+      "39",
+      "42",
+      "",
+      "36"
     ],
     [
       "sequencebox",
       "1",
       "Description",
-      "30",
-      "40",
+      "36",
+      "39",
+      "42",
       "?",
-      "60",
-      "NA",
-      "50"
+      "",
+      "45"
     ],
     [
       "sequencebox",
       "1",
       "Description",
-      "40",
-      "50",
+      "45",
+      "48",
+      "51",
       "?",
-      "70",
-      "NA",
-      "60"
+      "",
+      "54"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "33",
+      "?",
+      "39",
+      "42",
+      "",
+      "36"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "10",
+      "8",
+      "6",
+      "?",
+      "",
+      "4"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "8",
+      "6",
+      "?",
+      "2",
+      "",
+      "4"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "51~99",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "71~99",
+      "descending",
+      "order_the_numbers_from_largest_to_smallest.m4a",
+      "Order the numbers from largest to smallest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "51~99",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
     ]
   ]
 }

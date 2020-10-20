@@ -4,81 +4,108 @@
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-1",
-      "9"
+      "ADD3",
+      "7+3+4",
+      "14"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-2",
-      "8"
+      "ADD3",
+      "6+1+9",
+      "16"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-3",
-      "7"
+      "ADD3",
+      "3+1+9",
+      "13"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-4",
-      "6"
+      "ADD3",
+      "5+1+9",
+      "15"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-5",
-      "5"
+      "ADD3",
+      "4+2+8",
+      "14"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-6",
-      "4"
+      "ADD3",
+      "6+2+8",
+      "16"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-7",
-      "3"
+      "ADD3",
+      "2+3+7",
+      "12"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-8",
-      "2"
+      "ADD3",
+      "7+3+4",
+      "14"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-9",
-      "1"
+      "ADD3",
+      "6+1+9",
+      "16"
     ],
     [
       "tenbox",
       "1",
       "Description",
-      "SUB",
-      "10-1",
-      "9"
+      "ADD3",
+      "3+1+9",
+      "13"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "3~27",
+      "1~9+1~9+1~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "3~30",
+      "10~19+1~10+1~10=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "3~30",
+      "1~10+10~19+ 1~10=?",
+      "horizontal"
     ]
   ]
 }

@@ -4,15 +4,23 @@
       "sumtogether",
       "1",
       "Description",
-      "+",
-      "3",
+      "-",
+      "5",
       "4"
     ],
     [
       "sumtogether",
       "1",
       "Description",
-      "+",
+      "-",
+      "1",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
       "2",
       "2"
     ],
@@ -20,65 +28,57 @@
       "sumtogether",
       "1",
       "Description",
-      "+",
-      "1",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "3",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "4",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "+",
-      "1",
+      "-",
+      "5",
       "3"
     ],
     [
       "sumtogether",
       "1",
       "Description",
-      "+",
+      "-",
       "5",
+      "5"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "2",
       "1"
     ],
     [
       "sumtogether",
       "1",
       "Description",
-      "+",
-      "3",
-      "4"
+      "-",
+      "5",
+      "1"
     ],
     [
-      "sumtogether",
+      "quizmaths",
       "1",
       "Description",
-      "+",
-      "2",
-      "2"
+      "operations_with_objects",
+      "1~4",
+      "2~5-1~4=?"
     ],
     [
-      "sumtogether",
+      "quizmaths",
       "1",
       "Description",
-      "+",
+      "operations_with_objects",
+      "1~4",
+      "2~5-1~4=?"
+    ],
+    [
+      "quizmaths",
       "1",
-      "5"
+      "Description",
+      "operations_with_objects",
+      "1~4",
+      "2~5-1~4=?"
     ]
   ]
 }

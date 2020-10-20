@@ -4,45 +4,100 @@
       "sequencebox",
       "1",
       "Description",
-      "30",
-      "32",
+      "33",
       "34",
+      "35",
       "?",
-      "NA",
+      "",
       "36"
     ],
     [
       "sequencebox",
       "1",
       "Description",
-      "32",
-      "34",
-      "?",
-      "38",
-      "NA",
-      "36"
-    ],
-    [
-      "sequencebox",
-      "1",
-      "Description",
-      "22",
       "24",
+      "25",
       "?",
-      "28",
-      "NA",
+      "27",
+      "",
       "26"
     ],
     [
       "sequencebox",
       "1",
       "Description",
-      "41",
-      "43",
+      "31",
+      "?",
+      "33",
+      "34",
+      "",
+      "32"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "44",
+      "45",
       "?",
       "47",
-      "NA",
-      "45"
+      "",
+      "46"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "19",
+      "?",
+      "21",
+      "22",
+      "",
+      "20"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "10",
+      "20",
+      "30",
+      "?",
+      "",
+      "40"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "20",
+      "30",
+      "40",
+      "?",
+      "",
+      "50"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "10",
+      "?",
+      "30",
+      "40",
+      "",
+      "20"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "20",
+      "30",
+      "?",
+      "50",
+      "",
+      "40"
     ],
     [
       "sequencebox",
@@ -50,10 +105,77 @@
       "Description",
       "20",
       "?",
-      "24",
-      "26",
-      "NA",
-      "22"
+      "40",
+      "50",
+      "",
+      "30"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "11~50",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "11~50",
+      "descending",
+      "order_the_numbers_from_largest_to_smallest.m4a",
+      "Order the numbers from largest to smallest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "1~4",
+      "1~20",
+      "descending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "2~3",
+      "1~20",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "1~4",
+      "1~20",
+      "descending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "3~3",
+      "1~20",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "3~4",
+      "1~20",
+      "ascending"
     ]
   ]
 }

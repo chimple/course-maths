@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_07.m4a",
       "Jack's hen laid 6 eggs yesterday and 3 eggs today. How many eggs did Jack's hen lay in all?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_03.m4a",
       "Shelby earns star stickers when she does math at school. Yesterday, Shelby earned 4 stars. Today, she earned 3 more. How many stars did Shelby earn in all?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_05.m4a",
       "Tom has 6 books. James has 2 books. How many books do they have in all?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_01.m4a",
       "Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_08.m4a",
       "7 red apples and 2 green apples are in the basket. How many apples are in the basket?",
@@ -119,7 +114,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_07.m4a",
       "Jack's hen laid 6 eggs yesterday and 3 eggs today. How many eggs did Jack's hen lay in all?",
@@ -137,6 +131,39 @@
       "3",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "9",
+      "",
+      "",
+      "en_uk_a1_01.m4a",
+      "Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "9",
+      "",
+      "",
+      "en_uk_a1_08.m4a",
+      "7 red apples and 2 green apples are in the basket. How many apples are in the basket?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "9",
+      "",
+      "",
+      "en_uk_a1_07.m4a",
+      "Jack's hen laid 6 eggs yesterday and 3 eggs today. How many eggs did Jack's hen lay in all?"
     ]
   ]
 }

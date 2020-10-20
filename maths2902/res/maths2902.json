@@ -4,7 +4,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "3",
       "8",
       "24"
@@ -13,7 +12,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "6",
       "5",
       "30"
@@ -22,7 +20,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "5",
       "6",
       "30"
@@ -31,7 +28,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "4",
       "2",
       "8"
@@ -40,7 +36,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "2",
       "4",
       "8"
@@ -49,7 +44,6 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "8",
       "3",
       "24"
@@ -58,10 +52,54 @@
       "multiplybeads",
       "1",
       "Description",
-      "",
       "3",
       "8",
       "24"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "4~36",
+      "2~4x2~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "8~30",
+      "4~5x2~6=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "12~35",
+      "6~7x2~5=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "16~81",
+      "8~9x2~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "4~81",
+      "2~9x2~9=?",
+      "horizontal"
     ]
   ]
 }

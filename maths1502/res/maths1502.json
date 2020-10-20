@@ -1,60 +1,120 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "-",
-      "6",
-      "5"
+      "ADD2",
+      "9+7",
+      "16"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "-",
-      "2",
-      "1"
+      "ADD2",
+      "8+9",
+      "17"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "-",
-      "5",
-      "1"
+      "ADD2",
+      "8+8",
+      "16"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "3",
-      "6"
+      "ADD2",
+      "8+7",
+      "15"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "2",
-      "3"
+      "ADD2",
+      "7+9",
+      "16"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "-",
-      "4",
-      "1"
+      "ADD2",
+      "7+8",
+      "15"
     ],
     [
-      "sumtogether",
+      "tenbox",
       "1",
       "Description",
-      "+",
-      "4",
-      "2"
+      "ADD2",
+      "9+9",
+      "18"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "ADD2",
+      "9+8",
+      "17"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "ADD2",
+      "9+7",
+      "16"
+    ],
+    [
+      "tenbox",
+      "1",
+      "Description",
+      "ADD2",
+      "8+9",
+      "17"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "11~19",
+      "11~18+1~8=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "11~19",
+      "1~8+11~18=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "11~19",
+      "11~18+1~8=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "11~19",
+      "1~8+11~18=?",
+      "horizontal"
     ]
   ]
 }

@@ -4,11 +4,44 @@
       "sequencebox",
       "1",
       "Description",
+      "12",
+      "?",
+      "14",
+      "15",
+      "",
+      "13"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "16",
+      "17",
+      "18",
+      "?",
+      "",
+      "19"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "17",
+      "?",
+      "19",
+      "20",
+      "",
+      "18"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
       "10",
       "12",
       "14",
       "?",
-      "NA",
+      "",
       "16"
     ],
     [
@@ -19,7 +52,7 @@
       "?",
       "16",
       "18",
-      "NA",
+      "",
       "14"
     ],
     [
@@ -30,7 +63,7 @@
       "10",
       "12",
       "?",
-      "NA",
+      "",
       "14"
     ],
     [
@@ -41,7 +74,7 @@
       "?",
       "15",
       "17",
-      "NA",
+      "",
       "13"
     ],
     [
@@ -52,8 +85,68 @@
       "11",
       "13",
       "?",
-      "NA",
+      "",
       "15"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "1~20",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "1~20",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "1~20",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "1~2",
+      "1~20",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "1~4",
+      "1~20",
+      "descending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "2~3",
+      "1~20",
+      "descending"
     ]
   ]
 }

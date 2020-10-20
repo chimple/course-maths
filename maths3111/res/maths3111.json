@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_05.m4a",
       "Tom has 6 books. James has 2 books. How many books do they have in all?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_03.m4a",
       "Shelby earns star stickers when she does math at school. Yesterday, Shelby earned 4 stars. Today, she earned 3 more. How many stars did Shelby earn in all?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_08.m4a",
       "7 red apples and 2 green apples are in the basket. How many apples are in the basket?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_04.m4a",
       "There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a1_09.m4a",
       "Helen saw 12 birds in a tree and 7 birds in another tree. How many birds did she see altogether?",
@@ -114,6 +109,39 @@
       "7",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "7",
+      "",
+      "",
+      "en_uk_d3_06.m4a",
+      "The library has 5 more tables than the school office. The school office has 2 tables. How many tables does the library have?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "7",
+      "",
+      "",
+      "en_uk_d3_01.m4a",
+      "Sarah is 5 years old. Her sister Katie is 2 years older than Sarah. How old is Katie?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "9",
+      "",
+      "",
+      "en_uk_d3_03.m4a",
+      "Henry has 4 stamps. Eric has 5 more stamps than Henry. How many stamps does Eric have?"
     ]
   ]
 }

@@ -54,6 +54,33 @@
       "50",
       "40",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~48",
+      "51~99-51~99=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~29",
+      "21~50-21~50=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~39",
+      "21~50-11~19=?",
+      "horizontal"
     ]
   ]
 }

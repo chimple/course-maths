@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d2_10.m4a",
       "It rained 15 days in March. It rained 8 days in April. How many more days did it rain in March than April?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d2_01.m4a",
       "Beth has 13 flowers in her garden. Kate has 8 flowers. How many more flowers does Beth have than Kate?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d2_07.m4a",
       "Jane bakes 15 cookies and 7 cakes. How many fewer cakes did she bake than cookies?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d2_08.m4a",
       "Ernest makes 5 paper airplanes. Nicole makes 14 paper airplanes. How many fewer paper airplanes does Ernest make than Nicole?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d2_03.m4a",
       "Sydney found 20 seashells on the beach. Noah found 6 seashells. How many more seashells did Sydney find than Noah?",
@@ -114,6 +109,39 @@
       "6",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "2",
+      "",
+      "",
+      "en_uk_d2_10.m4a",
+      "It rained 15 days in March. It rained 8 days in April. How many more days did it rain in March than April?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "2",
+      "",
+      "",
+      "en_uk_d2_01.m4a",
+      "Beth has 13 flowers in her garden. Kate has 8 flowers. How many more flowers does Beth have than Kate?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "2",
+      "",
+      "",
+      "en_uk_d2_07.m4a",
+      "Jane bakes 15 cookies and 7 cakes. How many fewer cakes did she bake than cookies?"
     ]
   ]
 }

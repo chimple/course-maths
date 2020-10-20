@@ -5,55 +5,7 @@
       "1",
       "Description",
       "-",
-      "5",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "3",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "5",
-      "4"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "1",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "2",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "5",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "5",
+      "6",
       "5"
     ],
     [
@@ -61,8 +13,72 @@
       "1",
       "Description",
       "-",
+      "2",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
       "5",
       "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "3",
+      "6"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "2",
+      "3"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "4",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "4",
+      "2"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "1~10",
+      "1~10-1~10=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "1~9",
+      "2~10-1~4=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "1~9",
+      "2~10-5~9=?"
     ]
   ]
 }

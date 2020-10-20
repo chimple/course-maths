@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a2_10.m4a",
       "There are 7 yellow beads and 8 red beads on a necklace. How many beads are on the necklace in all?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a2_08.m4a",
       "Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a2_07.m4a",
       "There are 7 pencils in the drawer. Dan placed 9 more pencils in the drawer. How many pencils are in the drawer?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a2_03.m4a",
       "A farmer planted 5 rows of corn before lunch. He planted 7 more rows after lunch. How many rows of corn did he plant during the day?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "1",
       "en_uk_a2_06.m4a",
       "Maya has 5 marbles. Jaden has 8 marbles. How many marbles do they have altogether?",
@@ -114,6 +109,39 @@
       "8",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "15",
+      "",
+      "",
+      "en_uk_a2_10.m4a",
+      "There are 7 yellow beads and 8 red beads on a necklace. How many beads are on the necklace in all?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "12",
+      "",
+      "",
+      "en_uk_a2_08.m4a",
+      "Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "16",
+      "",
+      "",
+      "en_uk_a2_07.m4a",
+      "There are 7 pencils in the drawer. Dan placed 9 more pencils in the drawer. How many pencils are in the drawer?"
     ]
   ]
 }

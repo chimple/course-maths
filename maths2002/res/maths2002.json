@@ -65,6 +65,33 @@
       "38",
       "40",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "11~19",
+      "11~18+1~8=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "11~19",
+      "1~8+11~18=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "11~19",
+      "1~9+1~9=?",
+      "horizontal"
     ]
   ]
 }

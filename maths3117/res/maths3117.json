@@ -4,7 +4,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d4_02.m4a",
       "Jackie has 9 pencils. Adam has 5 more pencils than Jackie. How many pencils does Adam have?",
@@ -27,7 +26,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d4_03.m4a",
       "Marin has 7 balls. Ellen has 6 more balls than Marin. How many balls does Ellen have?",
@@ -50,7 +48,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d4_10.m4a",
       "Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?",
@@ -73,7 +70,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d4_04.m4a",
       "Gabby worked 4 more hours than Ian. Ian worked 8 hours. How many hours did Gabby work?",
@@ -96,7 +92,6 @@
       "questionboard",
       "1",
       "Description",
-      "",
       "4",
       "en_uk_d4_06.m4a",
       "The postman delivered 3 more letters today than yesterday. He delivered 8 letters yesterday. How many letters did he deliver today?",
@@ -114,6 +109,39 @@
       "8",
       "0",
       "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "14",
+      "",
+      "",
+      "en_uk_d4_02.m4a",
+      "Jackie has 9 pencils. Adam has 5 more pencils than Jackie. How many pencils does Adam have?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "13",
+      "",
+      "",
+      "en_uk_d4_03.m4a",
+      "Marin has 7 balls. Ellen has 6 more balls than Marin. How many balls does Ellen have?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "word_problem",
+      "12",
+      "",
+      "",
+      "en_uk_d4_10.m4a",
+      "Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?"
     ]
   ]
 }

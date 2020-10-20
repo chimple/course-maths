@@ -1,124 +1,103 @@
 {
   "rows": [
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "?",
+      "26",
+      "25",
+      "24",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "1"
+      "27"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "27",
+      "?",
+      "25",
+      "24",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "2"
+      "26"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "27",
+      "26",
+      "?",
+      "24",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "3"
+      "25"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "27",
+      "26",
+      "25",
+      "?",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "4"
+      "24"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "?",
+      "18",
+      "17",
+      "16",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "5"
+      "19"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "19",
+      "?",
+      "17",
+      "16",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "1"
+      "18"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "19",
+      "18",
+      "?",
+      "16",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "2"
+      "17"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "19",
+      "18",
+      "17",
+      "?",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "3"
+      "16"
     ],
     [
-      "balancing",
+      "sequencebox",
       "1",
       "Description",
+      "19",
+      "18",
+      "?",
+      "16",
       "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "4"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "5"
+      "17"
     ]
   ]
 }
