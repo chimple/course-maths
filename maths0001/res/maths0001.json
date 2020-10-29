@@ -23,6 +23,7 @@
       "Description",
       "2"
     ],
+    
     [
       "writeset",
       "1",
@@ -35,7 +36,7 @@
       "Description",
       "single_digit_numbers",
       "",
-      "1~2",
+      "1~4",
       "",
       "howmany.m4a"
     ],
@@ -45,7 +46,7 @@
       "Description",
       "number_identification",
       "",
-      "1~2"
+      "1~4"
     ],
     [
       "quizmaths",
@@ -53,7 +54,7 @@
       "Description",
       "recognize_number",
       "",
-      "1~2"
+      "1~4"
     ],
     [
       "quizmaths",
