@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "4a1e4122-d2c7-4c83-b984-4968b4b7ae55",
+  "uuid": "f1252057-9e9f-4290-bf40-1c03d3107168",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "domino8": {
       "ver": "1.0.4",
-      "uuid": "11ab138d-5cb8-49c9-a6ce-aec32e5aca85",
-      "rawTextureUuid": "4a1e4122-d2c7-4c83-b984-4968b4b7ae55",
+      "uuid": "75554084-aef0-41f5-9256-35d2abdc63d4",
+      "rawTextureUuid": "f1252057-9e9f-4290-bf40-1c03d3107168",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

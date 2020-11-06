@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "3fbeffdf-9e21-4cac-a16a-f6d8af82f6b7",
+  "uuid": "2ce4d355-8881-4b38-8e1d-960846b8ed96",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "matchinggame_hexagon_2_large": {
       "ver": "1.0.4",
-      "uuid": "fb9b773f-4b23-4691-84df-7a9f7906b3d7",
-      "rawTextureUuid": "3fbeffdf-9e21-4cac-a16a-f6d8af82f6b7",
+      "uuid": "7c6b7862-bb5d-4384-b35e-a84bcb0136c3",
+      "rawTextureUuid": "2ce4d355-8881-4b38-8e1d-960846b8ed96",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

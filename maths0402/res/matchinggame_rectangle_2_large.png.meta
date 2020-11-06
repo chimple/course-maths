@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "323a934d-1800-4ea3-a2af-ec7507b5f735",
+  "uuid": "2a9c7dc8-7eb6-424f-bdff-08b69ce06e9d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "matchinggame_rectangle_2_large": {
       "ver": "1.0.4",
-      "uuid": "78bf73eb-58f6-497d-986e-94438958b082",
-      "rawTextureUuid": "323a934d-1800-4ea3-a2af-ec7507b5f735",
+      "uuid": "94755fbf-488e-42dc-9a48-c5ecb05535c5",
+      "rawTextureUuid": "2a9c7dc8-7eb6-424f-bdff-08b69ce06e9d",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
