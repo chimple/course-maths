@@ -49,24 +49,27 @@
       "1",
       "Description",
       "operations_drag",
-      "70~90",
-      "40~50+30~40=?"
+      "85",
+      "40~50+30~40=?",
+      "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_drag",
-      "20~50",
-      "10~30+10~20=?"
+      "34",
+      "10~30+10~20=?",
+      "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_drag",
-      "60~80",
-      "50~60+10~20=?"
+      "77",
+      "50~60+10~20=?",
+      "horizontal"
     ]
   ]
 }
