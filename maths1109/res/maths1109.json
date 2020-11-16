@@ -69,6 +69,62 @@
       "Description",
       "423",
       "951"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "number_identification",
+      "100~300"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "100~2",
+      "100~900",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description"
     ]
   ]
 }

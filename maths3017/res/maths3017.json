@@ -116,7 +116,7 @@
       "Description",
       "operations_drag",
       "10~9",
-      "10+1~9=?",
+      "10-1~9=?",
       "horizontal"
     ],
     [
@@ -125,7 +125,7 @@
       "Description",
       "operations_drag",
       "1~10",
-      "10+1~9=?",
+      "10-1~9=?",
       "horizontal"
     ],
     [
@@ -134,7 +134,7 @@
       "Description",
       "operations_drag",
       "1~10",
-      "10+1~9=?",
+      "10-1~9=?",
       "horizontal"
     ]
   ]

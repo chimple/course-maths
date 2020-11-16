@@ -5,11 +5,11 @@
       "1",
       "Description",
       "image",
-      "10",
+      "5",
       "",
       "",
       "image",
-      "5"
+      "10"
     ],
     [
       "balancing",
@@ -27,11 +27,11 @@
       "1",
       "Description",
       "image",
-      "10",
+      "7",
       "",
       "",
       "image",
-      "7"
+      "10"
     ],
     [
       "balancing",
@@ -85,7 +85,7 @@
       "Description",
       "bigger_and_smaller",
       "",
-      "1~20",
+      "1~10",
       "bigger",
       "which_is_bigger.m4a",
       "Which is bigger?",
@@ -97,7 +97,7 @@
       "Description",
       "bigger_and_smaller",
       "",
-      "1~20",
+      "1~10",
       "smaller",
       "which_is_smaller.m4a",
       "Which is smaller?",

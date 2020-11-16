@@ -5,77 +5,22 @@
       "1",
       "Description",
       "number",
-      "20",
+      "14",
       "",
       "",
       "number",
-      "14"
+      "20"
     ],
     [
       "balancing",
       "1",
       "Description",
       "number",
-      "20",
+      "15",
       "",
       "",
       "number",
-      "15"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "20",
-      "",
-      "",
-      "number",
-      "16"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "20",
-      "",
-      "",
-      "number",
-      "17"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "20",
-      "",
-      "",
-      "number",
-      "18"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "20",
-      "",
-      "",
-      "number",
-      "14"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "20",
-      "",
-      "",
-      "number",
-      "15"
+      "20"
     ],
     [
       "balancing",
@@ -93,11 +38,11 @@
       "1",
       "Description",
       "number",
-      "20",
+      "17",
       "",
       "",
       "number",
-      "17"
+      "20"
     ],
     [
       "balancing",
@@ -109,6 +54,61 @@
       "",
       "number",
       "18"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "14",
+      "",
+      "",
+      "number",
+      "20"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
+      "15"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "16",
+      "",
+      "",
+      "number",
+      "20"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
+      "17"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "18",
+      "",
+      "",
+      "number",
+      "20"
     ],
     [
       "quizmaths",
@@ -140,7 +140,7 @@
       "Description",
       "biggest_and_smallest",
       "",
-      "1~20",
+      "10~20",
       "biggest",
       "which_is_the_biggest.m4a",
       "Which is the biggest?",
@@ -152,7 +152,7 @@
       "Description",
       "biggest_and_smallest",
       "",
-      "1~20",
+      "10~20",
       "smallest",
       "which_is_the_smallest.m4a",
       "Which is the smallest?",

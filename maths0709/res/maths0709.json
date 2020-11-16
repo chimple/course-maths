@@ -5,18 +5,18 @@
       "1",
       "Description",
       "number",
-      "20",
+      "15",
       "",
       "",
       "number",
-      "15"
+      "50"
     ],
     [
       "balancing",
       "1",
       "Description",
       "number",
-      "20",
+      "50",
       "",
       "",
       "number",
@@ -27,22 +27,22 @@
       "1",
       "Description",
       "number",
-      "20",
+      "17",
       "",
       "",
       "number",
-      "17"
+      "50"
     ],
     [
       "balancing",
       "1",
       "Description",
       "number",
-      "20",
+      "18",
       "",
       "",
       "number",
-      "18"
+      "50"
     ],
     [
       "balancing",
@@ -60,11 +60,11 @@
       "1",
       "Description",
       "number",
-      "50",
+      "20",
       "",
       "",
       "number",
-      "20"
+      "50"
     ],
     [
       "balancing",
@@ -104,11 +104,11 @@
       "1",
       "Description",
       "number",
-      "50",
+      "10",
       "",
       "",
       "number",
-      "10"
+      "50"
     ],
     [
       "quizmaths",
