@@ -113,17 +113,46 @@
     [
       "quizmaths",
       "1",
-      "Description"
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "11~20",
+      "descending",
+      "order_the_numbers_from_largest_to_smallest.m4a",
+      "Order the numbers from largest to smallest."
     ],
     [
       "quizmaths",
       "1",
-      "Description"
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "16~5",
+      "descending",
+      "order_the_numbers_from_largest_to_smallest.m4a",
+      "Order the numbers from largest to smallest."
     ],
     [
       "quizmaths",
       "1",
-      "Description"
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "10~19",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "3~4",
+      "1~20",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
     ]
   ]
 }

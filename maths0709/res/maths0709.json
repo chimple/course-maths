@@ -140,7 +140,7 @@
       "Description",
       "biggest_and_smallest",
       "",
-      "11~50",
+      "1~50",
       "biggest",
       "which_is_the_biggest.m4a",
       "Which is the biggest?",
@@ -152,7 +152,7 @@
       "Description",
       "biggest_and_smallest",
       "",
-      "11~50",
+      "1~50",
       "biggest",
       "which_is_the_biggest.m4a",
       "Which is the biggest?",
@@ -164,10 +164,22 @@
       "Description",
       "biggest_and_smallest",
       "",
-      "11~50",
+      "20~50",
       "smallest",
       "which_is_the_smallest.m4a",
       "Which is the smallest?",
+      "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "20~50",
+      "biggest",
+      "which_is_the_biggest.m4a",
+      "Which is the biggest?",
       "number"
     ]
   ]

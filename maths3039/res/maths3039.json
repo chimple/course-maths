@@ -115,8 +115,8 @@
       "1",
       "Description",
       "operations_drag",
-      "1~10        \t\t",
-      "1*1~10=?",
+      "15~25",
+      "15+0~10=?",
       "horizontal"
     ],
     [
@@ -124,8 +124,8 @@
       "1",
       "Description",
       "operations_drag",
-      "1~10        \t\t",
-      "1*1~10=?",
+      "15~25",
+      "15+0~10=?",
       "horizontal"
     ],
     [
@@ -133,8 +133,8 @@
       "1",
       "Description",
       "operations_drag",
-      "1~10        \t\t",
-      "1*1~10=?",
+      "15~25",
+      "15+0~10=?",
       "horizontal"
     ]
   ]

@@ -65,53 +65,27 @@
       "1",
       "Description",
       "operations_without_objects",
-      "operations_drag",
-      "1~100",
-      "11~99+10",
-      "20",
-      "30",
-      "40",
-      "50",
-      "60",
-      "70",
-      "70",
-      "80=?",
-      "horizontal"
+      "50~100",
+      "20~70+30~30=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_without_objects",
-      "operations_drag",
-      "1~100",
-      "10",
-      "20",
-      "30",
-      "40",
-      "50",
-      "60",
-      "70",
-      "80+11~99=?",
-      "horizontal"
+      "50~100",
+      "30~60+20~40=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_without_objects",
-      "operations_drag",
-      "1~100",
-      "11~99-10",
-      "20",
-      "30",
-      "40",
-      "50",
-      "60",
-      "70",
-      "80",
-      "90=?",
-      "horizontal"
+      "50~100",
+      "45~90+5~10=?",
+      "vertical"
     ]
   ]
 }

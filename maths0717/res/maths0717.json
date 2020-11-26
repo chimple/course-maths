@@ -181,6 +181,54 @@
       "which_is_the_smallest.m4a",
       "Which is the smallest?",
       "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "21~100",
+      "biggest",
+      "which_is_the_biggest.m4a",
+      "Which is the biggest?",
+      "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "41~100",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "81~100",
+      "biggest",
+      "which_is_the_biggest.m4a",
+      "Which is the biggest?",
+      "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "61~100",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
     ]
   ]
 }
