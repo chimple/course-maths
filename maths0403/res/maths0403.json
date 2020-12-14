@@ -124,14 +124,14 @@
       "1",
       "Description",
       "8",
-      "object/triangleruler.png",
-      "object/television.png",
-      "object/donut.png",
-      "object/mirror.png",
-      "planefigure/triangle_blue.png",
-      "planefigure/rectangle_blue.png",
-      "planefigure/circle_blue.png",
-      "planefigure/ellipse_blue.png"
+      "triangleruler.png",
+      "television.png",
+      "donut.png",
+      "mirror.png",
+      "triangle_blue.png",
+      "rectangle_blue.png",
+      "circle_blue.png",
+      "ellipse_blue.png"
     ],
     [
       "quizmaths",
