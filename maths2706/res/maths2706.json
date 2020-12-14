@@ -1,86 +1,91 @@
 {
   "rows": [
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "16 - 8 = [ 8 ]",
+      "10, 20, 30, 40, 50, 60, 70, 80, 90",
+      "FALSE",
+      "TRUE",
+      "5,10",
+      "0-100",
       "",
-      "3",
-      "5",
-      "6",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "11 - 8 = [ 3 ]",
+      "10, 20, 30, 40, 50, 60, 70, 80, 90",
+      "FALSE",
+      "TRUE",
+      "5,10",
+      "0-100",
       "",
-      "1",
-      "2",
-      "4",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "12 - 4 = [ 8 ]",
+      "10, 20, 30, 40, 50, 60, 70, 80, 90",
+      "FALSE",
+      "TRUE",
+      "5,10",
+      "0-100",
       "",
-      "6",
-      "7",
-      "9",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "14 - 5 = [ 9 ]",
+      "10, 20, 30, 40, 50, 60, 70, 80, 90",
+      "FALSE",
+      "TRUE",
+      "5,10",
+      "0-100",
       "",
-      "6",
-      "7",
-      "8",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "13 - 7 = [ 6 ]",
+      "10, 20, 30, 40, 50, 60, 70, 80, 90",
+      "FALSE",
+      "TRUE",
+      "5,10",
+      "0-100",
       "",
-      "5",
-      "7",
-      "8",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "12~49",
-      "21~50-1~9=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~100",
+      "20~70-11~30=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~78",
-      "51~99-21~50=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~100",
+      "20~70-11~30=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~48",
-      "51~99-51~99=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~100",
+      "20~70-11~30=?",
+      "vertical"
     ]
   ]
 }

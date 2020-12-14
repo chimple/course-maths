@@ -1,84 +1,82 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "checkerblocks",
       "1",
       "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "2"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
       "8"
     ],
     [
-      "sumtogether",
+      "rowblocks",
       "1",
       "Description",
-      "-",
-      "10",
+      "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+      "2, 4, 6, 8, 10, 12, 14, 16, 18, 20",
+      "Y",
+      "2"
+    ],
+    [
+      "rowblocks",
+      "1",
+      "Description",
+      "1,2,3,4,5,6,7,8,9,10",
+      "2, 4, 6, 8, 10",
+      "N",
+      "2"
+    ],
+    [
+      "rowblocks",
+      "1",
+      "Description",
+      "1,2,3,4,5,6,7,8,9,10",
+      "2, 4, 6, 8, 10",
+      "N",
+      "2"
+    ],
+    [
+      "rowblocks",
+      "1",
+      "Description",
+      "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+      "5, 10, 15, 20",
+      "Y",
       "1"
     ],
     [
-      "sumtogether",
+      "rowblocks",
       "1",
       "Description",
-      "-",
-      "10",
-      "5"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "4"
+      "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+      "2, 4, 6, 8, 10, 12, 14, 16, 18, 20",
+      "Y",
+      "2"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~10",
-      "1~10-1~10=?"
+      "missing_number_drag",
+      "2~3",
+      "100~10",
+      "descending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-1~4=?"
+      "missing_number_drag",
+      "2~1",
+      "50~100",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-5~9=?"
+      "missing_number_drag",
+      "2~4",
+      "10~50",
+      "ascending"
     ]
   ]
 }

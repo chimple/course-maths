@@ -1,108 +1,64 @@
 {
   "rows": [
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "11-3",
-      "8"
+      "35",
+      "30",
+      "25",
+      "?",
+      "",
+      "20"
     ],
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "15-6",
-      "9"
+      "25",
+      "20",
+      "?",
+      "10",
+      "",
+      "15"
     ],
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "14-5",
-      "9"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "13-4",
-      "9"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "12-4",
-      "8"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "12-3",
-      "9"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "11-2",
-      "9"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "13-4",
-      "9"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "11-3",
-      "8"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "15-6",
-      "9"
+      "45",
+      "?",
+      "35",
+      "30",
+      "",
+      "40"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "10~1",
-      "11-1~9=?"
+      "missing_number_drag",
+      "5~2",
+      "1~100",
+      "descending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~10",
-      "11-1~9=?"
+      "missing_number_drag",
+      "5~3",
+      "1~50",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~11",
-      "11-1~9=?"
+      "missing_number_drag",
+      "5~4",
+      "1~50",
+      "descending"
     ]
   ]
 }

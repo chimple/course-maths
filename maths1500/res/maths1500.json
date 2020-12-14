@@ -1,93 +1,84 @@
 {
   "rows": [
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "1+9",
-      "10"
+      "-",
+      "5",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "2+8",
-      "10"
+      "-",
+      "6",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "3+7",
-      "10"
+      "-",
+      "7",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "4+6",
-      "10"
+      "-",
+      "8",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "5+5",
-      "10"
+      "-",
+      "9",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "6+4",
-      "10"
+      "-",
+      "5",
+      "3"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "7+3",
-      "10"
+      "-",
+      "6",
+      "3"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "8+2",
-      "10"
+      "-",
+      "7",
+      "3"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "9+1",
-      "10"
+      "-",
+      "8",
+      "3"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "1+9",
-      "10"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~10",
-      "1~9+1~9=?",
-      "horizontal"
+      "-",
+      "9",
+      "3"
     ],
     [
       "quizmaths",
@@ -95,17 +86,23 @@
       "Description",
       "operations_with_objects",
       "1~10",
-      "1~9+1~9=?",
-      "horizontal"
+      "1~10-1~10=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "1~10",
-      "1~9+1~9=?",
-      "horizontal"
+      "1~9",
+      "2~10-1~4=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "1~9",
+      "2~10-5~9=?"
     ]
   ]
 }

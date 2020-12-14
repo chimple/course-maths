@@ -1,76 +1,98 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "blender",
       "1",
       "Description",
-      "+",
-      "3",
-      "5"
+      "61",
+      "0"
     ],
     [
-      "sumtogether",
+      "blender",
       "1",
       "Description",
-      "+",
-      "4",
-      "1"
+      "62",
+      "0"
     ],
     [
-      "sumtogether",
+      "blender",
       "1",
       "Description",
-      "+",
-      "1",
-      "3"
+      "63",
+      "0"
     ],
     [
-      "sumtogether",
+      "blender",
       "1",
       "Description",
-      "+",
-      "5",
-      "1"
+      "64",
+      "0"
     ],
     [
-      "sumtogether",
+      "blender",
       "1",
       "Description",
-      "+",
-      "3",
-      "4"
+      "65",
+      "0"
+    ],
+    [
+      "blender",
+      "1",
+      "Description",
+      "66",
+      "0"
+    ],
+    [
+      "blender",
+      "1",
+      "Description",
+      "67",
+      "0"
+    ],
+    [
+      "blender",
+      "1",
+      "Description",
+      "69",
+      "0"
+    ],
+    [
+      "blender",
+      "1",
+      "Description",
+      "69",
+      "0"
+    ],
+    [
+      "blender",
+      "1",
+      "Description",
+      "70",
+      "0"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "2~5",
-      "1~4+1~4=?"
+      "recognize_number",
+      "",
+      "61~70"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~20+1~20=?"
+      "recognize_number",
+      "",
+      "61~70"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "10",
-      "1~9+1~9=?"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "1~20",
-      "1~9+1~9=?"
+      "recognize_number",
+      "",
+      "61~70"
     ]
   ]
 }

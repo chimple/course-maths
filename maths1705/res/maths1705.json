@@ -1,116 +1,96 @@
 {
   "rows": [
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "SUB",
-      "12-6",
-      "6"
+      "number",
+      "900",
+      "",
+      "",
+      "number",
+      "400"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "SUB",
-      "13-9",
-      "4"
+      "number",
+      "900",
+      "",
+      "",
+      "number",
+      "500"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "SUB",
-      "20-1",
-      "19"
+      "number",
+      "600",
+      "",
+      "",
+      "number",
+      "900"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "SUB",
-      "20-2",
-      "18"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-3",
-      "17"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-4",
-      "16"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-5",
-      "15"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-6",
-      "14"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-7",
-      "13"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-8",
-      "12"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "SUB",
-      "20-9",
-      "11"
+      "number",
+      "900",
+      "",
+      "",
+      "number",
+      "700"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~4",
-      "2~5-1~4=?"
+      "biggest_and_smallest",
+      "",
+      "51~100",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-1~4=?"
+      "biggest_and_smallest",
+      "",
+      "200~700",
+      "biggest",
+      "which_is_the_biggest.m4a",
+      "Which is the biggest?",
+      "number"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-5~9=?"
+      "biggest_and_smallest",
+      "",
+      "400~900",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "biggest_and_smallest",
+      "",
+      "600~800",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
     ]
   ]
 }

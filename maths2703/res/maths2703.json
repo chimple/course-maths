@@ -1,75 +1,91 @@
 {
   "rows": [
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "11 - 8 = [ 3 ]",
-      "",
-      "1",
-      "2",
-      "4",
-      "0"
+      "11-50",
+      "FALSE",
+      "TRUE",
+      "1-50",
+      "1-50",
+      "YES",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "12 - 4 = [ 8 ]",
-      "",
-      "6",
-      "7",
-      "9",
-      "0"
+      "11-50",
+      "FALSE",
+      "TRUE",
+      "1-50",
+      "1-50",
+      "YES",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "14 - 5 = [ 9 ]",
-      "",
-      "6",
-      "7",
-      "8",
-      "0"
+      "11-50",
+      "FALSE",
+      "TRUE",
+      "1-50",
+      "1-50",
+      "YES",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "13 - 7 = [ 6 ]",
-      "",
-      "5",
-      "7",
-      "8",
-      "0"
+      "11-50",
+      "FALSE",
+      "TRUE",
+      "1-50",
+      "1-50",
+      "YES",
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "11-50",
+      "FALSE",
+      "TRUE",
+      "1-50",
+      "1-50",
+      "YES",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~78",
-      "51~99-21~50=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~40",
+      "21~50-10~20=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "9~89",
-      "21~99-10",
-      "horizontal"
+      "operations_without_objects",
+      "1~40",
+      "21~50-11~30=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~48",
-      "51~99-51~99=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~50",
+      "31~50-11~20=?",
+      "vertical"
     ]
   ]
 }

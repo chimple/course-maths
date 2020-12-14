@@ -1,84 +1,103 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "-",
-      "6",
+      "A",
+      "+",
+      "1",
+      "10",
+      "0",
+      "2",
       "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "-",
+      "A",
+      "+",
+      "1",
+      "10",
+      "0",
       "2",
-      "1"
+      "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "-",
-      "5",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
+      "A",
       "+",
-      "3",
-      "6"
-    ],
-    [
-      "sumtogether",
       "1",
-      "Description",
-      "+",
+      "10",
+      "0",
       "2",
-      "3"
+      "5"
     ],
     [
-      "sumtogether",
+      "foodjar",
       "1",
       "Description",
-      "-",
-      "4",
-      "1"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
+      "A",
       "+",
-      "4",
-      "2"
+      "1",
+      "10",
+      "0",
+      "2",
+      "5"
+    ],
+    [
+      "foodjar",
+      "1",
+      "Description",
+      "A",
+      "+",
+      "1",
+      "10",
+      "0",
+      "2",
+      "5"
+    ],
+    [
+      "foodjar",
+      "1",
+      "Description",
+      "A",
+      "+",
+      "1",
+      "10",
+      "0",
+      "2",
+      "5"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~10",
-      "1~10-1~10=?"
+      "operations_drag",
+      "3~15",
+      "1~10+2~5=?",
+      "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-1~4=?"
+      "operations_drag",
+      "3~15",
+      "1~10+2~5=?",
+      "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-5~9=?"
+      "operations_drag",
+      "3~15",
+      "1~10+2~5=?",
+      "horizontal"
     ]
   ]
 }

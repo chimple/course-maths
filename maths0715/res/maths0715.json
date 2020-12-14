@@ -1,174 +1,46 @@
 {
   "rows": [
     [
-      "balancing",
+      "numberboard",
       "1",
       "Description",
-      "number",
-      "42",
-      "",
-      "",
-      "number",
-      "47"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "22",
-      "",
-      "",
-      "number",
-      "20"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "34",
-      "",
-      "",
-      "number",
-      "31"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "36",
-      "",
-      "",
-      "number",
-      "37"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "35",
-      "",
-      "",
-      "number",
-      "33"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "42",
-      "",
-      "",
-      "number",
-      "47"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "73",
-      "",
-      "",
-      "number",
-      "81"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "85",
-      "",
-      "",
-      "number",
-      "58"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "86",
-      "",
-      "",
-      "number",
-      "67"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "number",
-      "90",
-      "",
-      "",
-      "number",
-      "59"
+      "91,92,93,94,95,96,97,98,99,100",
+      "Alpha",
+      "0",
+      "0",
+      "15",
+      "-30",
+      "170",
+      "120",
+      "n"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "biggest_and_smallest",
+      "2digit_numbers",
       "",
-      "11~50",
-      "biggest",
-      "which_is_the_biggest.m4a",
-      "Which is the biggest?",
-      "number"
+      "91~100",
+      "",
+      "howmany.m4a"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "biggest_and_smallest",
+      "recognize_number",
       "",
-      "21~50",
-      "smallest",
-      "which_is_the_smallest.m4a",
-      "Which is the smallest?",
-      "number"
+      "91~100"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "biggest_and_smallest",
+      "2digit_numbers",
       "",
-      "11~50",
-      "biggest",
-      "which_is_the_biggest.m4a",
-      "Which is the biggest?",
-      "number"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "biggest_and_smallest",
+      "91~100",
       "",
-      "11~50",
-      "biggest",
-      "which_is_the_biggest.m4a",
-      "Which is the biggest?",
-      "number"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "biggest_and_smallest",
-      "",
-      "11~50",
-      "smallest",
-      "which_is_the_smallest.m4a",
-      "Which is the smallest?",
-      "number"
+      "howmany.m4a"
     ]
   ]
 }

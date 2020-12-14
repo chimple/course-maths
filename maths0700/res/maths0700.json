@@ -1,107 +1,46 @@
 {
   "rows": [
     [
-      "balancing",
+      "numberboard",
       "1",
       "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "1"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "image",
-      "2",
-      "",
-      "",
-      "image",
-      "5"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "image",
-      "3",
-      "",
-      "",
-      "image",
-      "5"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "4"
-    ],
-    [
-      "balancing",
-      "1",
-      "Description",
-      "image",
-      "5",
-      "",
-      "",
-      "image",
-      "5"
+      "21,22,23,24,25,26,27,28,29,30",
+      "Alpha",
+      "0",
+      "0",
+      "15",
+      "-30",
+      "170",
+      "120",
+      "n"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "bigger_and_smaller",
+      "2digit_numbers",
       "",
-      "1~5",
-      "bigger",
-      "which_group_is_bigger.m4a",
-      "Which group is bigger?",
-      "image"
+      "21~30",
+      "",
+      "howmany.m4a"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "bigger_and_smaller",
+      "recognize_number",
       "",
-      "1~5",
-      "smaller",
-      "which_group_is_smaller.m4a",
-      "Which group is smaller?",
-      "image"
+      "21~30"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "bigger_and_smaller",
+      "2digit_numbers",
       "",
-      "1~5",
-      "bigger",
-      "which_is_bigger.m4a",
-      "Which is bigger?",
-      "number"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "bigger_and_smaller",
+      "21~30",
       "",
-      "1~5",
-      "smaller",
-      "which_is_smaller.m4a",
-      "Which is smaller?",
-      "number"
+      "howmany.m4a"
     ]
   ]
 }

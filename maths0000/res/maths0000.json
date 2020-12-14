@@ -1,12 +1,9 @@
 {
   "rows": [
     [
-      "taprise",
+      "writenumber",
       "1",
       "Description",
-      "2",
-      "1",
-      "1",
       "1"
     ],
     [
@@ -16,10 +13,12 @@
       "1"
     ],
     [
-      "writenumber",
+      "total",
       "1",
       "Description",
-      "1"
+      "1",
+      "0",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
@@ -46,16 +45,6 @@
       "recognize_number",
       "",
       "1"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "2digit_numbers",
-      "",
-      "1",
-      "",
-      "howmany.m4a"
     ]
   ]
 }

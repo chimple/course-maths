@@ -1,91 +1,103 @@
 {
   "rows": [
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "11-20",
-      "FALSE",
-      "TRUE",
-      "1-10",
-      "1-10",
-      "YES",
-      "0,1,2,3,4,5,6,7,8,9"
+      "550",
+      "540",
+      "530",
+      "?",
+      "520, 510, 500, 490",
+      "520"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "11-20",
-      "FALSE",
-      "TRUE",
-      "1-10",
-      "1-10",
-      "YES",
-      "0,1,2,3,4,5,6,7,8,9"
+      "800",
+      "790",
+      "?",
+      "770",
+      "880, 780, 680, 580",
+      "780"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "11-20",
-      "FALSE",
-      "TRUE",
-      "1-10",
-      "1-10",
-      "YES",
-      "0,1,2,3,4,5,6,7,8,9"
+      "150",
+      "?",
+      "130",
+      "120",
+      "440, 340, 240, 140",
+      "140"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "11-20",
-      "FALSE",
-      "TRUE",
-      "1-10",
-      "1-10",
-      "YES",
-      "0,1,2,3,4,5,6,7,8,9"
+      "655",
+      "650",
+      "645",
+      "?",
+      "640, 630, 620, 610",
+      "640"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "11-20",
-      "FALSE",
-      "TRUE",
-      "1-10",
-      "1-10",
-      "YES",
-      "0,1,2,3,4,5,6,7,8,9"
+      "295",
+      "290",
+      "?",
+      "280",
+      "585, 485, 385, 285",
+      "285"
     ],
     [
-      "quizmaths",
+      "sequencebox",
       "1",
       "Description",
-      "operations_without_objects",
-      "11~19",
-      "20-1~9=?",
-      "vertical"
+      "415",
+      "?",
+      "405",
+      "400",
+      "610, 510, 410, 310",
+      "410"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_without_objects",
-      "11~19",
-      "20-1~9=?",
-      "vertical"
+      "compare_number_magnitudes",
+      "",
+      "100~500",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_without_objects",
-      "11~19",
-      "20-1~9=?",
-      "vertical"
+      "compare_number_magnitudes",
+      "",
+      "100~500",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "compare_number_magnitudes",
+      "",
+      "100~500",
+      "ascending",
+      "order_the_numbers_from_smallest_to_largest.m4a",
+      "Order the numbers from smallest to largest."
     ]
   ]
 }

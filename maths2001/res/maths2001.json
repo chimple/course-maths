@@ -1,85 +1,102 @@
 {
   "rows": [
     [
-      "fillanswer",
+      "multiplybeads",
       "1",
       "Description",
-      "25 + 11 = [ 36 ]",
-      "",
-      "30",
-      "26",
-      "45",
-      "0"
+      "2",
+      "1",
+      "2"
     ],
     [
-      "fillanswer",
+      "multiplybeads",
       "1",
       "Description",
-      "33 + 24 = [ 57 ]",
-      "",
-      "45",
-      "60",
-      "67",
-      "0"
+      "2",
+      "2",
+      "4"
     ],
     [
-      "fillanswer",
+      "multiplybeads",
       "1",
       "Description",
-      "17 + 32 = [ 49 ]",
-      "",
-      "39",
-      "52",
-      "60",
-      "0"
+      "2",
+      "3",
+      "6"
     ],
     [
-      "fillanswer",
+      "multiplybeads",
       "1",
       "Description",
-      "41 + 25 = [ 66 ]",
-      "",
-      "60",
-      "76",
-      "59",
-      "0"
+      "2",
+      "4",
+      "8"
     ],
     [
-      "fillanswer",
+      "multiplybeads",
       "1",
       "Description",
-      "55 + 13 = [ 68 ]",
-      "",
-      "78",
-      "85",
-      "60",
-      "0"
+      "2",
+      "5",
+      "10"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "2",
+      "6",
+      "12"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "2",
+      "7",
+      "14"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "2",
+      "8",
+      "16"
+    ],
+    [
+      "multiplybeads",
+      "1",
+      "Description",
+      "2",
+      "9",
+      "18"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~9",
-      "1~9+1~9=?",
+      "operations_without_objects",
+      "4~18",
+      "2~2x1~9=?",
       "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "10",
-      "1~9+1~9=?",
+      "operations_without_objects",
+      "4~18",
+      "2~2x1~9=?",
       "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "11~19",
-      "10+1~9=?",
+      "operations_without_objects",
+      "4~18",
+      "2~2x1~9=?",
       "horizontal"
     ]
   ]

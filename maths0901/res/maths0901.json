@@ -1,59 +1,84 @@
 {
   "rows": [
     [
-      "sequencebox",
+      "sumtogether",
       "1",
       "Description",
-      "1",
+      "+",
       "2",
-      "?",
-      "4",
-      "",
-      "3"
-    ],
-    [
-      "sequencebox",
-      "1",
-      "Description",
-      "2",
-      "3",
-      "4",
-      "?",
-      "",
-      "5"
-    ],
-    [
-      "sequencebox",
-      "1",
-      "Description",
-      "2",
-      "3",
-      "?",
-      "5",
-      "",
-      "4"
-    ],
-    [
-      "sequencebox",
-      "1",
-      "Description",
-      "1",
-      "?",
-      "3",
-      "4",
-      "",
       "2"
     ],
     [
-      "sequencebox",
+      "sumtogether",
       "1",
       "Description",
-      "2",
-      "?",
+      "+",
+      "3",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
       "4",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
       "5",
-      "",
+      "2"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "2",
       "3"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "2",
+      "4"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "2",
+      "5"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "2~5",
+      "1~4+1~4=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "2~5",
+      "1~4+1~4=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_with_objects",
+      "2~5",
+      "1~4+1~4=?"
     ]
   ]
 }

@@ -1,111 +1,150 @@
 {
   "rows": [
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "7+3+4",
-      "14"
+      "number",
+      "14",
+      "",
+      "",
+      "number",
+      "20"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "6+1+9",
+      "number",
+      "15",
+      "",
+      "",
+      "number",
+      "20"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
       "16"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "3+1+9",
-      "13"
+      "number",
+      "17",
+      "",
+      "",
+      "number",
+      "20"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "5+1+9",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
+      "18"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
       "15"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "4+2+8",
+      "number",
+      "16",
+      "",
+      "",
+      "number",
+      "20"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
+      "17"
+    ],
+    [
+      "balancing",
+      "1",
+      "Description",
+      "number",
+      "20",
+      "",
+      "",
+      "number",
       "14"
     ],
     [
-      "tenbox",
+      "balancing",
       "1",
       "Description",
-      "ADD3",
-      "6+2+8",
-      "16"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "ADD3",
-      "2+3+7",
-      "12"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "ADD3",
-      "7+3+4",
-      "14"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "ADD3",
-      "6+1+9",
-      "16"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "ADD3",
-      "3+1+9",
-      "13"
+      "number",
+      "18",
+      "",
+      "",
+      "number",
+      "20"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "3~27",
-      "1~9+1~9+1~9=?",
-      "horizontal"
+      "biggest_and_smallest",
+      "",
+      "1~20",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "3~30",
-      "10~19+1~10+1~10=?",
-      "horizontal"
+      "biggest_and_smallest",
+      "",
+      "10~20",
+      "biggest",
+      "which_is_the_biggest.m4a",
+      "Which is the biggest?",
+      "number"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "3~30",
-      "1~10+10~19+ 1~10=?",
-      "horizontal"
+      "biggest_and_smallest",
+      "",
+      "10~20",
+      "smallest",
+      "which_is_the_smallest.m4a",
+      "Which is the smallest?",
+      "number"
     ]
   ]
 }

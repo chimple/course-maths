@@ -1,120 +1,100 @@
 {
   "rows": [
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "9+7",
-      "16"
+      "-",
+      "10",
+      "1"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "8+9",
-      "17"
+      "-",
+      "10",
+      "2"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "8+8",
-      "16"
+      "-",
+      "10",
+      "3"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "8+7",
-      "15"
+      "-",
+      "10",
+      "4"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "7+9",
-      "16"
+      "-",
+      "10",
+      "5"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "7+8",
-      "15"
+      "-",
+      "10",
+      "6"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "9+9",
-      "18"
+      "-",
+      "10",
+      "7"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "9+8",
-      "17"
+      "-",
+      "10",
+      "8"
     ],
     [
-      "tenbox",
+      "sumtogether",
       "1",
       "Description",
-      "ADD2",
-      "9+7",
-      "16"
-    ],
-    [
-      "tenbox",
-      "1",
-      "Description",
-      "ADD2",
-      "8+9",
-      "17"
+      "-",
+      "10",
+      "9"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "11~19",
-      "11~18+1~8=?",
-      "horizontal"
+      "1~10",
+      "1~10-1~10=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "11~19",
-      "1~8+11~18=?",
-      "horizontal"
+      "1~9",
+      "2~10-1~4=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "11~19",
-      "11~18+1~8=?",
-      "horizontal"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "operations_with_objects",
-      "11~19",
-      "1~8+11~18=?",
-      "horizontal"
+      "1~9",
+      "2~10-5~9=?"
     ]
   ]
 }

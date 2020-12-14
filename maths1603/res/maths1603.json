@@ -1,60 +1,130 @@
 {
   "rows": [
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "14-5",
-      "9"
+      "10",
+      "20",
+      "30",
+      "?",
+      "",
+      "40"
     ],
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "13-4",
-      "9"
+      "20",
+      "30",
+      "40",
+      "?",
+      "",
+      "50"
     ],
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "12-4",
-      "8"
+      "10",
+      "?",
+      "30",
+      "40",
+      "",
+      "20"
     ],
     [
-      "tenbox",
+      "sequencebox",
       "1",
       "Description",
-      "SUB",
-      "12-3",
-      "9"
+      "20",
+      "30",
+      "?",
+      "50",
+      "",
+      "40"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "20",
+      "?",
+      "40",
+      "50",
+      "",
+      "30"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "60",
+      "70",
+      "80",
+      "?",
+      "",
+      "90"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "30",
+      "40",
+      "?",
+      "60",
+      "",
+      "50"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "40",
+      "50",
+      "?",
+      "70",
+      "",
+      "60"
+    ],
+    [
+      "sequencebox",
+      "1",
+      "Description",
+      "50",
+      "?",
+      "70",
+      "80",
+      "",
+      "60"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "13~5",
-      "14-1~9=?"
+      "missing_number_drag",
+      "10~4",
+      "1~100",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "13~6",
-      "14-1~9=?"
+      "missing_number_drag",
+      "10~3",
+      "1~50",
+      "descending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "13~7",
-      "14-1~9=?"
+      "missing_number_drag",
+      "10~4",
+      "1~50",
+      "ascending"
     ]
   ]
 }

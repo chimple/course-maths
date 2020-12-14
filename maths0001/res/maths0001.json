@@ -1,23 +1,6 @@
 {
   "rows": [
     [
-      "taprise",
-      "1",
-      "Description",
-      "2",
-      "1",
-      "1",
-      "2"
-    ],
-    [
-      "total",
-      "1",
-      "Description",
-      "0",
-      "2",
-      "0,1,2,3,4,5,6,7,8,9"
-    ],
-    [
       "writenumber",
       "1",
       "Description",
@@ -28,6 +11,14 @@
       "1",
       "Description",
       "2"
+    ],
+    [
+      "total",
+      "1",
+      "Description",
+      "2",
+      "0",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
@@ -54,16 +45,6 @@
       "recognize_number",
       "",
       "1~2"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "2digit_numbers",
-      "",
-      "2",
-      "",
-      "howmany.m4a"
     ]
   ]
 }

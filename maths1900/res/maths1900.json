@@ -1,91 +1,86 @@
 {
   "rows": [
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "1-10",
-      "FALSE",
-      "TRUE",
-      "1-5",
-      "1-10",
+      "30",
+      "32",
+      "34",
+      "?",
       "",
-      "0,1,2,3,4,5,6,7,8,9"
+      "36"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "1-10",
-      "FALSE",
-      "TRUE",
-      "1-5",
-      "1-10",
+      "32",
+      "34",
+      "?",
+      "38",
       "",
-      "0,1,2,3,4,5,6,7,8,9"
+      "36"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "1-10",
-      "FALSE",
-      "TRUE",
-      "1-5",
-      "1-10",
+      "22",
+      "24",
+      "?",
+      "28",
       "",
-      "0,1,2,3,4,5,6,7,8,9"
+      "26"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "1-10",
-      "FALSE",
-      "TRUE",
-      "1-5",
-      "1-10",
+      "41",
+      "43",
+      "?",
+      "47",
       "",
-      "0,1,2,3,4,5,6,7,8,9"
+      "45"
     ],
     [
-      "calculator",
+      "sequencebox",
       "1",
       "Description",
-      "1-10",
-      "FALSE",
-      "TRUE",
-      "1-5",
-      "1-10",
+      "20",
+      "?",
+      "24",
+      "26",
       "",
-      "0,1,2,3,4,5,6,7,8,9"
+      "22"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_without_objects",
-      "1~9",
-      "10-1~9=?",
-      "vertical"
+      "missing_number_drag",
+      "1~2",
+      "1~50",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_without_objects",
-      "1~9",
-      "10-1~9=?",
-      "vertical"
+      "missing_number_drag",
+      "5~3",
+      "1~50",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_without_objects",
-      "1~9",
-      "10-1~9=?",
-      "vertical"
+      "missing_number_drag",
+      "10~4",
+      "1~50",
+      "descending"
     ]
   ]
 }

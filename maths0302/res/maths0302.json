@@ -1,70 +1,112 @@
 {
   "rows": [
     [
-      "writeset",
+      "numberboard",
       "1",
       "Description",
-      "40"
+      "1,2,3,4,5,6,7,8,9,10",
+      "DropAlphaDragStick",
+      "0",
+      "0",
+      "20",
+      "-100",
+      "110",
+      "90",
+      "n"
     ],
     [
-      "writeset",
+      "numberpair",
       "1",
       "Description",
-      "41"
+      "number",
+      "dice",
+      "1",
+      "finger/finger1",
+      "",
+      "2",
+      "finger/finger2",
+      "",
+      "3",
+      "finger/finger3",
+      "",
+      "4",
+      "finger/finger4",
+      "",
+      "5",
+      "finger/finger5"
     ],
     [
-      "writeset",
+      "numberpair",
       "1",
       "Description",
-      "42"
+      "number",
+      "dice",
+      "3",
+      "domino/domino3",
+      "",
+      "4",
+      "domino/domino4",
+      "",
+      "5",
+      "domino/domino5",
+      "",
+      "6",
+      "domino/domino6",
+      "",
+      "7",
+      "domino/domino7"
     ],
     [
-      "writeset",
+      "numberpair",
       "1",
       "Description",
-      "43"
+      "number",
+      "dice",
+      "2",
+      "dice/dice2",
+      "",
+      "3",
+      "dice/dice3",
+      "",
+      "4",
+      "dice/dice4",
+      "",
+      "5",
+      "dice/dice5",
+      "",
+      "6",
+      "dice/dice6"
     ],
     [
-      "writeset",
+      "numberpair",
       "1",
       "Description",
-      "44"
+      "number",
+      "dice",
+      "1",
+      "dice/dice1",
+      "",
+      "2",
+      "dice/dice2",
+      "",
+      "3",
+      "dice/dice3",
+      "",
+      "4",
+      "dice/dice4",
+      "",
+      "5",
+      "dice/dice5"
     ],
     [
-      "writeset",
+      "quizmaths",
       "1",
       "Description",
-      "45"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "46"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "47"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "48"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "49"
-    ],
-    [
-      "writeset",
-      "1",
-      "Description",
-      "50"
+      "single_digit_numbers",
+      "",
+      "4~9",
+      "",
+      "howmany.m4a"
     ],
     [
       "quizmaths",
@@ -72,23 +114,15 @@
       "Description",
       "number_identification",
       "",
-      "40~50"
+      "1~9"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "number_identification",
+      "recognize_number",
       "",
-      "40~50"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "number_identification",
-      "",
-      "40~50"
+      "1~9"
     ]
   ]
 }

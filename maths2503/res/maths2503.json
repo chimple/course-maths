@@ -1,102 +1,102 @@
 {
   "rows": [
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "3",
+      "1"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "1",
+      "4"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "3",
+      "2"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "1",
+      "2"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "-",
+      "4",
+      "2"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "1",
+      "3"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "4",
+      "1"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "+",
+      "2",
+      "3"
+    ],
+    [
+      "sumtogether",
+      "1",
+      "Description",
+      "-",
+      "2",
+      "4"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~19",
-      "11~20-1~9=?",
+      "operations_with_objects",
+      "11~19",
+      "11~18+1~8=?",
       "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~10",
-      "11~20-10=?",
+      "operations_with_objects",
+      "11~19",
+      "11~18+1~8=?",
       "horizontal"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~10",
-      "20-1~10=?",
+      "operations_with_objects",
+      "11~19",
+      "1~8+11~18=?",
       "horizontal"
     ]
   ]

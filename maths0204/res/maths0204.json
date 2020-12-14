@@ -1,42 +1,24 @@
 {
   "rows": [
     [
-      "taprise",
-      "1",
-      "Description",
-      "2",
-      "1",
-      "1",
-      "14"
-    ],
-    [
-      "total",
-      "1",
-      "Description",
-      "14",
-      "0",
-      "0,1,2,3,4,5,6,7,8,9"
-    ],
-    [
-      "rowblocks",
-      "1",
-      "Description",
-      "11,12,13,14,15,16,17,18,19,20",
-      "14",
-      "Y",
-      "5"
-    ],
-    [
       "writenumber",
       "1",
       "Description",
-      "14"
+      "10"
     ],
     [
       "writeset",
       "1",
       "Description",
-      "14"
+      "10"
+    ],
+    [
+      "total",
+      "1",
+      "Description",
+      "10",
+      "0",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
@@ -44,7 +26,7 @@
       "Description",
       "single_digit_numbers",
       "",
-      "1~14",
+      "1~10",
       "",
       "howmany.m4a"
     ],
@@ -54,15 +36,7 @@
       "Description",
       "number_identification",
       "",
-      "1~14"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "number_identification",
-      "",
-      "11~14"
+      "1~10"
     ],
     [
       "quizmaths",
@@ -70,17 +44,7 @@
       "Description",
       "recognize_number",
       "",
-      "1~14"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "2digit_numbers",
-      "",
-      "14",
-      "",
-      "howmany.m4a"
+      "1~10"
     ]
   ]
 }

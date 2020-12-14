@@ -1,103 +1,68 @@
 {
   "rows": [
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "-",
+      "5",
+      "1"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "3",
+      "6"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "2",
+      "3"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "-",
+      "4",
+      "1"
     ],
     [
-      "foodjar",
+      "sumtogether",
       "1",
       "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
-    ],
-    [
-      "foodjar",
-      "1",
-      "Description",
-      "B",
-      "R",
-      "10",
-      "20",
-      "0",
-      "0",
-      "5"
+      "+",
+      "4",
+      "2"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
+      "operations_with_objects",
       "1~10",
-      "20-1~10=?",
-      "horizontal"
+      "1~10-1~10=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "20~50",
-      "11~50+11~50=?",
-      "horizontal"
+      "operations_with_objects",
+      "1~9",
+      "2~10-1~4=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "1~10",
-      "11~20-10=?",
-      "horizontal"
+      "operations_with_objects",
+      "1~9",
+      "2~10-5~9=?"
     ]
   ]
 }

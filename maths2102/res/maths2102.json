@@ -1,75 +1,139 @@
 {
   "rows": [
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "43 + 37 = [ 80 ]",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
       "",
-      "70",
-      "90",
-      "100",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "58 + 32 = [ 90 ]",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
       "",
-      "100",
-      "110",
-      "80",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "36 + 34 = [ 70 ]",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
       "",
-      "90",
-      "80",
-      "60",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
-      "fillanswer",
+      "calculator",
       "1",
       "Description",
-      "29 + 31 = [ 60 ]",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
       "",
-      "40",
-      "50",
-      "70",
-      "0"
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
+      "",
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
+      "",
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
+      "",
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
+      "",
+      "0,1,2,3,4,5,6,7,8,9"
+    ],
+    [
+      "calculator",
+      "1",
+      "Description",
+      "1-10",
+      "TRUE",
+      "FALSE",
+      "1-10",
+      "10",
+      "",
+      "0,1,2,3,4,5,6,7,8,9"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "70~90",
-      "40~50+30~40=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~10",
+      "0~9+1~9=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "20~50",
-      "10~30+10~20=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~10",
+      "6~7+2~3=?",
+      "vertical"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_drag",
-      "60~80",
-      "50~60+10~20=?",
-      "horizontal"
+      "operations_without_objects",
+      "1~10",
+      "8~3+2~7=?",
+      "vertical"
     ]
   ]
 }

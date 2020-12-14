@@ -1,0 +1,86 @@
+{
+  "rows": [
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "20 - 11 = [ 9 ]",
+      "",
+      "6",
+      "7",
+      "8",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "20 - 14 = [ 6 ]",
+      "",
+      "3",
+      "7",
+      "8",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "20 - 15 = [ 5 ]",
+      "",
+      "3",
+      "4",
+      "2",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "20 - 13 = [ 7 ]",
+      "",
+      "3",
+      "4",
+      "6",
+      "0"
+    ],
+    [
+      "fillanswer",
+      "1",
+      "Description",
+      "20 - 12 = [ 8 ]",
+      "",
+      "6",
+      "4",
+      "9",
+      "0"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10~20",
+      "20~10-0~10=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10~20",
+      "10~50-0~30=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "10~20",
+      "10~90-0~70=?",
+      "horizontal"
+    ]
+  ]
+}

@@ -1,84 +1,84 @@
 {
   "rows": [
     [
-      "sumtogether",
+      "shapepair",
       "1",
       "Description",
-      "-",
-      "10",
-      "5"
+      "image",
+      "text",
+      "matchinggame_hexagon_1_large.png",
+      "hexagon",
+      "hexagon.mp3",
+      "matchinggame_parallelogram_1_large.png",
+      "parallelogram",
+      "parallelogram.mp3",
+      "matchinggame_rhombus_1_large.png",
+      "rhombus",
+      "rhombus.mp3",
+      "matchinggame_oval_1_large.png",
+      "oval",
+      "oval.mp3"
     ],
     [
-      "sumtogether",
+      "shapepair",
       "1",
       "Description",
-      "-",
-      "10",
-      "3"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "7"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "9"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "6"
-    ],
-    [
-      "sumtogether",
-      "1",
-      "Description",
-      "-",
-      "10",
-      "8"
+      "image",
+      "text",
+      "matchinggame_hexagon_2_large.png",
+      "hexagon",
+      "hexagon.mp3",
+      "matchinggame_parallelogram_2_large.png",
+      "parallelogram",
+      "parallelogram.mp3",
+      "matchinggame_rhombus_2_large.png",
+      "rhombus",
+      "rhombus.mp3",
+      "matchinggame_oval_2_large.png",
+      "oval",
+      "oval.mp3"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~10",
-      "1~10-1~10=?"
+      "shapes",
+      "pentagon",
+      "pentagon",
+      "hexagon",
+      "parallelogram",
+      "trapezoid",
+      "which",
+      "Which_is_a_pentagon",
+      "Which is a pentagon?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-1~4=?"
+      "shapes",
+      "hexagon",
+      "pentagon",
+      "hexagon",
+      "parallelogram",
+      "trapezoid",
+      "which",
+      "Which_is_a_hexagon",
+      "Which is a hexagon?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "operations_with_objects",
-      "1~9",
-      "2~10-5~9=?"
+      "shapes",
+      "parallelogram",
+      "pentagon",
+      "hexagon",
+      "parallelogram",
+      "trapezoid",
+      "which",
+      "Which_is_a_parallelogram",
+      "Which is a parallelogram?"
     ]
   ]
 }
