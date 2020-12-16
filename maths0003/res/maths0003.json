@@ -26,7 +26,7 @@
       "Description",
       "single_digit_numbers",
       "",
-      "1~4",
+      "4",
       "",
       "howmany.m4a"
     ],
@@ -36,7 +36,7 @@
       "Description",
       "number_identification",
       "",
-      "1~4"
+      "4"
     ],
     [
       "quizmaths",
@@ -44,7 +44,7 @@
       "Description",
       "recognize_number",
       "",
-      "1~4"
+      "4"
     ]
   ]
 }

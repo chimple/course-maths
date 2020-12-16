@@ -109,7 +109,7 @@
       "missing_number_drag",
       "1~2",
       "1~10",
-      "ascending"
+      "descending"
     ],
     [
       "quizmaths",
@@ -118,7 +118,7 @@
       "missing_number_drag",
       "1~3",
       "1~10",
-      "ascending"
+      "descending"
     ],
     [
       "quizmaths",
@@ -127,7 +127,7 @@
       "missing_number_drag",
       "1~4",
       "1~10",
-      "ascending"
+      "descending"
     ]
   ]
 }
