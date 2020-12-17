@@ -68,7 +68,7 @@
       "parallelogram",
       "trapezoid",
       "which",
-      "Which_is_a_trapezoid",
+      "which_is_a_trapezoid",
       "Which is a trapezoid?"
     ],
     [
@@ -81,11 +81,8 @@
       "parallelogram",
       "trapezoid",
       "pentagon",
-      "hexagon",
-      "parallelogram",
-      "trapezoid",
       "what",
-      "What_is_this_shape",
+      "what_is_this_shape",
       "What is this shape?"
     ],
     [
@@ -98,11 +95,8 @@
       "triangle",
       "rectangle",
       "circle",
-      "square",
-      "triangle",
-      "rectangle",
       "what",
-      "What_is_this_shape",
+      "what_is_this_shape",
       "What is this shape?"
     ]
   ]

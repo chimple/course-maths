@@ -60,7 +60,7 @@
       "1",
       "Description",
       "operations_drag",
-      "1~39",
+      "2~31",
       "21~50-11~19=?",
       "horizontal"
     ],
@@ -69,8 +69,8 @@
       "1",
       "Description",
       "operations_drag",
-      "9~89",
-      "21~99-10",
+      "9~41",
+      "21~60-10~19=?",
       "horizontal"
     ],
     [
@@ -78,8 +78,8 @@
       "1",
       "Description",
       "operations_drag",
-      "1~78",
-      "51~99-21~50=?",
+      "20~10",
+      "50~40-20~30=?",
       "horizontal"
     ]
   ]

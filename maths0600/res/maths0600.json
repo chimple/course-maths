@@ -20,8 +20,8 @@
       "Description",
       "text",
       "text",
-      "10",
-      "10",
+      "11",
+      "11",
       "",
       "14",
       "14",
@@ -88,7 +88,7 @@
       "Description",
       "number_identification",
       "",
-      "5~10"
+      "11~19"
     ],
     [
       "quizmaths",
@@ -104,7 +104,7 @@
       "Description",
       "number_identification",
       "",
-      "1~9"
+      "11~19"
     ]
   ]
 }
