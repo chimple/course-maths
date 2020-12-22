@@ -39,14 +39,6 @@
       "quizmaths",
       "1",
       "Description",
-      "number_identification",
-      "",
-      "300~500"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
       "missing_number_drag",
       "100~4",
       "300~400",
@@ -59,6 +51,15 @@
       "missing_number_drag",
       "10~3",
       "340~450",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "50~2",
+      "400~500",
       "ascending"
     ]
   ]
