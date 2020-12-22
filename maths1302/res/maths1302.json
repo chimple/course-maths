@@ -68,7 +68,7 @@
       "Description",
       "missing_number_drag",
       "2~3",
-      "1~10",
+      "2~10",
       "ascending"
     ],
     [
@@ -77,7 +77,7 @@
       "Description",
       "missing_number_drag",
       "2~3",
-      "1~20",
+      "2~20",
       "ascending"
     ],
     [
@@ -86,7 +86,7 @@
       "Description",
       "missing_number_drag",
       "2~4",
-      "1~50",
+      "2~50",
       "ascending"
     ]
   ]
