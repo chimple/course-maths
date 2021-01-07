@@ -70,25 +70,28 @@
       "quizmaths",
       "1",
       "Description",
-      "number_identification",
-      "",
-      "100~110"
+      "missing_number_drag",
+      "1~1",
+      "100~110",
+      "ascending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "number_identification",
-      "",
-      "100~110"
+      "missing_number_drag",
+      "2~2",
+      "100~110",
+      "descending"
     ],
     [
       "quizmaths",
       "1",
       "Description",
-      "number_identification",
-      "",
-      "100~110"
+      "missing_number_drag",
+      "2~2",
+      "100~110",
+      "ascending"
     ]
   ]
 }
