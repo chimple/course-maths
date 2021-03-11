@@ -77,24 +77,24 @@
       "1",
       "Description",
       "operations_with_objects",
-      "1~10",
-      "1~10-1~10=?"
+      "1~4",
+      "7~10-1~6=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "1~9",
-      "2~10-1~4=?"
+      "1~4",
+      "7~10-1~6=?"
     ],
     [
       "quizmaths",
       "1",
       "Description",
       "operations_with_objects",
-      "1~9",
-      "2~10-5~9=?"
+      "1~4",
+      "7~10-1~6=?"
     ]
   ]
 }
