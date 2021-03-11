@@ -46,7 +46,7 @@
       "Description",
       "operations_with_objects",
       "1~4",
-      "2~5-1~4=?"
+      "2~5-1~1=?"
     ],
     [
       "quizmaths",
@@ -54,7 +54,7 @@
       "Description",
       "operations_with_objects",
       "1~4",
-      "2~5-1~4=?"
+      "2~5-1~1=?"
     ],
     [
       "quizmaths",
@@ -62,7 +62,7 @@
       "Description",
       "operations_with_objects",
       "1~4",
-      "2~5-1~4=?"
+      "2~5-1~1=?"
     ]
   ]
 }
