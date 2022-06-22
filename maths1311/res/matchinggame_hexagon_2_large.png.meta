@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a003cf7a-3e46-49f9-9ad2-ff19ee519328",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "matchinggame_hexagon_2_large": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2d5fbb5f-f9f4-4d75-b624-a3e50cbdd3dd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a003cf7a-3e46-49f9-9ad2-ff19ee519328",
       "trimType": "auto",
       "trimThreshold": 1,

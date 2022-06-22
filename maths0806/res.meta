@@ -1,6 +1,7 @@
 {
-  "ver": "1.1.2",
+  "ver": "1.1.3",
   "uuid": "26be834b-91fc-44b2-8823-c48be5cac2e0",
+  "importer": "folder",
   "isBundle": false,
   "bundleName": "",
   "priority": 1,

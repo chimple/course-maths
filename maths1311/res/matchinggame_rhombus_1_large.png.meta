@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "036cd58e-4a60-48c6-ac9d-5dbba206bc83",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "matchinggame_rhombus_1_large": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3eba5355-21fe-468f-85fe-73fbadf7792e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "036cd58e-4a60-48c6-ac9d-5dbba206bc83",
       "trimType": "auto",
       "trimThreshold": 1,
