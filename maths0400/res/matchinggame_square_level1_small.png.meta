@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a408caa9-8df2-4a9c-969f-e8943a0e67ce",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "matchinggame_square_level1_small": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "536c4b07-db9e-4c1a-a852-6a74a9c09f3a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a408caa9-8df2-4a9c-969f-e8943a0e67ce",
       "trimType": "auto",
       "trimThreshold": 1,
