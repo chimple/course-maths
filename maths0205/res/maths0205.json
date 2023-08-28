@@ -1,23 +1,9 @@
 {
-  "rows": [
-    [
-      "writenumber",
-      "1",
-      "Description",
-      "0"
-    ],
+  "rows": [ 
     [
       "writeset",
       "1",
       "Description",
-      "0"
-    ],
-    [
-      "total",
-      "1",
-      "Description",
-      "0",
-      "0",
       "0"
     ],
     [
