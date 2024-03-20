@@ -28,7 +28,7 @@
       "Description",
       "5",
       "en_uk_f2_04.mp3",
-      "Sarah picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?",
+      "Sarah picked 6 flowers. She put an equal number of flowers into 2 vases. How many flowers did she put in each vase?",
       "2",
       "3",
       "5",
@@ -72,15 +72,15 @@
       "Description",
       "5",
       "en_uk_f2_07.mp3",
-      "Shante picked 6 mangoes from a tree. He put an equal number of mangoes into 2 boxes. How many mangoes did he put in each box?",
+      "Shante picked 6 mangos from a tree. He put an equal number of mangos into 3 boxes. How many mangos did he put in each box?",
       "2",
       "3",
       "5",
       "6",
-      "mangoes",
-      "mangoes",
-      "mangoes",
-      "mangoes",
+      "mangos",
+      "mangos",
+      "mangos",
+      "mangos",
       "6 = <3> + <3>",
       "2",
       "3",
@@ -128,7 +128,7 @@
       "",
       "",
       "en_uk_f2_04.mp3",
-      "Sarah picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?"
+      "Sarah picked 6 flowers. She put an equal number of flowers into 2 vases. How many flowers did she put in each vase?"
     ],
     [
       "quizmaths",
@@ -139,7 +139,7 @@
       "",
       "",
       "en_uk_f2_07.mp3",
-      "Shante picked 6 mangoes from a tree. He put an equal number of mangoes into 2 boxes. How many mangoes did he put in each box?"
+      "Shante picked 6 mangos from a tree. He put an equal number of mangos into 3 boxes. How many mangos did he put in each box?"
     ]
   ]
 }

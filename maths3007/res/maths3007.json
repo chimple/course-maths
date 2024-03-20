@@ -6,7 +6,7 @@
       "Description",
       "6",
       "en_uk_e1_05.mp3",
-      "A football team scored 3 goals in the first half. Then they scored more goals in the second half. They won the game with 5 goals! How many goals did they socre in the second half?",
+      "A football team scored 3 goals in the first half. Then they scored more goals in the second half. They won the game with 5 goals! How many goals did they score in the second half?",
       "2",
       "5",
       "8",
@@ -94,15 +94,15 @@
       "Description",
       "6",
       "en_uk_e1_06.mp3",
-      "There are some crickets in a jar. You collect 5 more crickets and now have 10 crickets in all. How many crickets did you start with?",
+      "There are some coins in a jar. You collect 5 more coins and now have 10 coins in all. How many coins did you start with?",
       "2",
       "3",
       "4",
       "5",
-      "crickets",
-      "crickets",
-      "crickets",
-      "crickets",
+      "coins",
+      "coins",
+      "coins",
+      "coins",
       "<5> + 5 = 10",
       "4",
       "5",
@@ -141,7 +141,7 @@
       "",
       "",
       "en_uk_e1_06.mp3",
-      "There are some crickets in a jar. You collect 5 more crickets and now have 10 crickets in all. How many crickets did you start with?"
+      "There are some coins in a jar. You collect 5 more coins and now have 10 coins in all. How many coins did you start with?"
     ]
   ]
 }
